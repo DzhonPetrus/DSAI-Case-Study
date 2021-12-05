@@ -1,4 +1,40 @@
 ,Province,Municipality Name,Type,Population (2020),Population (2015),Annual Population Growth Rate (2015‑2020),"Area (2013), in km2","Density (2020), per km2",Brgy count
+0,III,Angeles,city (,"462,928","411,634",2.50%,63.37,"7,305",–
+1,III,Olongapo,city (,"260,317","233,040",2.36%,185.00,"1,407",–
+0,IV‑A,Lucena,city (,"278,924","266,248",0.98%,80.21,"3,477",–
+0,MIMAROPA,Puerto Princesa,city (,"307,079","255,116",3.98%,"2,381.02",129,–
+0,NCR,Caloocan,city (,"1,661,584","1,583,978",1.01%,55.80,"29,777",188
+1,NCR,Las Piñas,city (,"606,293","588,894",0.61%,32.69,"18,547",20
+2,NCR,Makati,city (,"629,616","582,602",1.65%,21.57,"29,189",33
+3,NCR,Malabon,city (,"380,522","365,525",0.85%,15.71,"24,222",21
+4,NCR,Mandaluyong,city (,"425,758","386,276",2.07%,9.29,"45,830",27
+5,NCR,Manila,city (,"1,846,513","1,780,148",0.77%,24.98,"73,920",897
+6,NCR,Marikina,city (,"456,059","450,741",0.25%,21.52,"21,192",16
+7,NCR,Muntinlupa,city (,"543,445","504,509",1.58%,39.75,"13,672",9
+8,NCR,Navotas,city (,"247,543","249,463",-0.16%,8.94,"27,689",18
+9,NCR,Parañaque,city (,"689,992","665,822",0.75%,46.57,"14,816",16
+10,NCR,Pasay,city (,"440,656","416,522",1.19%,13.97,"31,543",201
+11,NCR,Pasig,city (,"803,159","755,300",1.30%,48.46,"16,574",30
+12,NCR,Pateros,mun,"65,227","63,840",0.45%,10.40,"6,272",10
+13,NCR,Quezon City,city (,"2,960,048","2,936,116",0.17%,171.71,"17,239",142
+14,NCR,San Juan,city (,"126,347","122,180",0.71%,5.95,"21,235",21
+15,NCR,Taguig,city (,"886,722","804,915",2.06%,45.21,"19,613",28
+16,NCR,Valenzuela,city (,"714,978","620,422",3.03%,47.02,"15,206",33
+0,CAR,Baguio,city (,"366,358","345,366",1.25%,57.51,"6,370",–
+0,VI,Bacolod,city (,"600,783","561,875",1.42%,160.71,"3,738",–
+1,VI,Iloilo City,city (,"457,626","447,992",0.45%,78.34,"5,842",–
+0,VII,Cebu City,city (,"964,169","922,611",0.93%,315.00,"3,061",–
+1,VII,Lapu-Lapu,city (,"497,604","408,112",4.26%,58.10,"8,565",–
+2,VII,Mandaue,city (,"364,116","362,654",0.08%,25.18,"14,461",–
+0,VIII,Tacloban,city (,"251,881","242,089",0.84%,201.72,"1,249",–
+0,IX,Isabela City,city (,"130,379","112,788",3.10%,223.73,583,–
+1,IX,Zamboanga City,city (,"977,234","861,799",2.68%,"1,414.70",691,–
+0,X,Cagayan de Oro,city (,"728,402","675,950",1.59%,412.80,"1,765",–
+1,X,Iligan,city (,"363,115","342,618",1.23%,813.37,446,–
+0,XI,Davao City,city (,"1,776,949","1,632,991",1.79%,"2,443.61",727,–
+0,XII,Cotabato City,city (,"325,079","299,438",1.74%,176.00,"1,847",–
+1,XII,General Santos,city (,"697,315","594,446",3.42%,492.86,"1,415",–
+0,XIII,Butuan,city (,"372,910","337,063",2.15%,816.62,457,–
 0,Ilocos Norte,Adams,municipality,"2,189","1,792",4.30%,159.31,14,1
 1,Ilocos Norte,Bacarra,municipality,"33,496","32,215",0.82%,65.32,513,43
 2,Ilocos Norte,Badoc,municipality,"32,530","31,616",0.60%,76.68,424,31
@@ -863,7 +899,6 @@
 47,Cebu,Toledo,city (,"207,314","170,335",4.22%,216.28,959,38
 48,Cebu,Tuburan,municipality,"68,167","63,866",1.38%,224.50,304,54
 49,Cebu,Tudela,municipality,"11,304","11,296",0.01%,33.02,342,11
-0,Cebu City,Adlaon,0.46%,"4,413","4,028",9.56%,1.94%,0.29%,"2,772"
 0,Negros Oriental,Amlan,municipality,"25,513","23,624",1.63%,111.85,228,8
 1,Negros Oriental,Ayungon,municipality,"47,102","46,303",0.36%,265.10,178,24
 2,Negros Oriental,Bacong,municipality,"41,207","36,527",2.57%,40.30,"1,023",22
@@ -1037,7 +1072,6 @@
 16,Southern Leyte,Silago,municipality,"13,116","12,775",0.56%,215.05,61,15
 17,Southern Leyte,Sogod,municipality,"47,552","44,986",1.17%,192.70,247,45
 18,Southern Leyte,Tomas Oppus,municipality,"16,990","16,608",0.48%,56.11,303,29
-0,Zamboanga City,Arena Blanco,1.40%,"13,671","12,589",8.59%,1.75%,2.73%,"26,658"
 0,Zamboanga del Norte,Baliguian,municipality,"23,771","22,588",1.08%,439.26,54,17
 1,Zamboanga del Norte,Dapitan,city (,"85,202","82,418",0.70%,390.53,218,50
 2,Zamboanga del Norte,Dipolog,city (,"138,141","130,759",1.16%,241.13,573,21
@@ -1130,7 +1164,6 @@
 19,Bukidnon,Sumilao,municipality,"29,531","27,660",1.39%,196.95,150,10
 20,Bukidnon,Talakag,municipality,"77,027","71,644",1.54%,786.40,98,29
 21,Bukidnon,Valencia,city (,"216,546","192,993",2.45%,587.29,369,31
-0,Cagayan de Oro,Agusan,2.61%,"19,039","16,261",17.08%,3.38%,0.40%,"2,879"
 0,Camiguin,Catarman,municipality,"17,569","16,798",0.95%,53.75,327,14
 1,Camiguin,Guinsiliban,municipality,"6,685","6,281",1.32%,18.52,361,7
 2,Camiguin,Mahinog,municipality,"14,634","14,038",0.88%,36.04,406,13
@@ -1321,7 +1354,6 @@
 11,Agusan del Sur,Talacogon,municipality,"39,678","38,374",0.71%,405.25,98,16
 12,Agusan del Sur,Trento,municipality,"54,492","51,565",1.17%,555.70,98,16
 13,Agusan del Sur,Veruela,municipality,"39,708","43,706",-2.00%,385.45,103,20
-0,Butuan,Agao Poblacion,0.13%,490,778,-37.02%,-9.27%,1.49%,"5,555"
 0,Dinagat Islands,Basilisa,municipality,"36,911","36,880",0.02%,102.46,360,27
 1,Dinagat Islands,Cagdianao,municipality,"18,350","16,808",1.87%,196.57,93,14
 2,Dinagat Islands,Dinagat,municipality,"10,621","10,632",-0.02%,21.36,497,12
