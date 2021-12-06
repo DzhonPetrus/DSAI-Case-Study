@@ -1,52 +1,52 @@
 ,Province,Municipality Name,Type,Population (2020),Population (2015),Annual Population Growth Rate (2015‑2020),"Area (2013), in km2","Density (2020), per km2",Brgy count
-0,III,Angeles,city (,"462,928","411,634",2.50%,63.37,"7,305",–
-1,III,Olongapo,city (,"260,317","233,040",2.36%,185.00,"1,407",–
-0,IV‑A,Lucena,city (,"278,924","266,248",0.98%,80.21,"3,477",–
-0,MIMAROPA,Puerto Princesa,city (,"307,079","255,116",3.98%,"2,381.02",129,–
-0,NCR,Caloocan,city (,"1,661,584","1,583,978",1.01%,55.80,"29,777",188
-1,NCR,Las Piñas,city (,"606,293","588,894",0.61%,32.69,"18,547",20
-2,NCR,Makati,city (,"629,616","582,602",1.65%,21.57,"29,189",33
-3,NCR,Malabon,city (,"380,522","365,525",0.85%,15.71,"24,222",21
-4,NCR,Mandaluyong,city (,"425,758","386,276",2.07%,9.29,"45,830",27
-5,NCR,Manila,city (,"1,846,513","1,780,148",0.77%,24.98,"73,920",897
-6,NCR,Marikina,city (,"456,059","450,741",0.25%,21.52,"21,192",16
-7,NCR,Muntinlupa,city (,"543,445","504,509",1.58%,39.75,"13,672",9
-8,NCR,Navotas,city (,"247,543","249,463",-0.16%,8.94,"27,689",18
-9,NCR,Parañaque,city (,"689,992","665,822",0.75%,46.57,"14,816",16
-10,NCR,Pasay,city (,"440,656","416,522",1.19%,13.97,"31,543",201
-11,NCR,Pasig,city (,"803,159","755,300",1.30%,48.46,"16,574",30
+0,III,Angeles,city (HUC),"462,928","411,634",2.50%,63.37,"7,305",–
+1,III,Olongapo,city (HUC),"260,317","233,040",2.36%,185.00,"1,407",–
+0,IV‑A,Lucena,"city (HUC), capital","278,924","266,248",0.98%,80.21,"3,477",–
+0,MIMAROPA,Puerto Princesa,"city (HUC), capital","307,079","255,116",3.98%,"2,381.02",129,–
+0,NCR,Caloocan,city (HUC),"1,661,584","1,583,978",1.01%,55.80,"29,777",188
+1,NCR,Las Piñas,city (HUC),"606,293","588,894",0.61%,32.69,"18,547",20
+2,NCR,Makati,city (HUC),"629,616","582,602",1.65%,21.57,"29,189",33
+3,NCR,Malabon,city (HUC),"380,522","365,525",0.85%,15.71,"24,222",21
+4,NCR,Mandaluyong,city (HUC),"425,758","386,276",2.07%,9.29,"45,830",27
+5,NCR,Manila,"city (HUC), capital, regional center","1,846,513","1,780,148",0.77%,24.98,"73,920",897
+6,NCR,Marikina,city (HUC),"456,059","450,741",0.25%,21.52,"21,192",16
+7,NCR,Muntinlupa,city (HUC),"543,445","504,509",1.58%,39.75,"13,672",9
+8,NCR,Navotas,city (HUC),"247,543","249,463",-0.16%,8.94,"27,689",18
+9,NCR,Parañaque,city (HUC),"689,992","665,822",0.75%,46.57,"14,816",16
+10,NCR,Pasay,city (HUC),"440,656","416,522",1.19%,13.97,"31,543",201
+11,NCR,Pasig,city (HUC),"803,159","755,300",1.30%,48.46,"16,574",30
 12,NCR,Pateros,mun,"65,227","63,840",0.45%,10.40,"6,272",10
-13,NCR,Quezon City,city (,"2,960,048","2,936,116",0.17%,171.71,"17,239",142
-14,NCR,San Juan,city (,"126,347","122,180",0.71%,5.95,"21,235",21
-15,NCR,Taguig,city (,"886,722","804,915",2.06%,45.21,"19,613",28
-16,NCR,Valenzuela,city (,"714,978","620,422",3.03%,47.02,"15,206",33
-0,CAR,Baguio,city (,"366,358","345,366",1.25%,57.51,"6,370",–
-0,VI,Bacolod,city (,"600,783","561,875",1.42%,160.71,"3,738",–
-1,VI,Iloilo City,city (,"457,626","447,992",0.45%,78.34,"5,842",–
-0,VII,Cebu City,city (,"964,169","922,611",0.93%,315.00,"3,061",–
-1,VII,Lapu-Lapu,city (,"497,604","408,112",4.26%,58.10,"8,565",–
-2,VII,Mandaue,city (,"364,116","362,654",0.08%,25.18,"14,461",–
-0,VIII,Tacloban,city (,"251,881","242,089",0.84%,201.72,"1,249",–
-0,IX,Isabela City,city (,"130,379","112,788",3.10%,223.73,583,–
-1,IX,Zamboanga City,city (,"977,234","861,799",2.68%,"1,414.70",691,–
-0,X,Cagayan de Oro,city (,"728,402","675,950",1.59%,412.80,"1,765",–
-1,X,Iligan,city (,"363,115","342,618",1.23%,813.37,446,–
-0,XI,Davao City,city (,"1,776,949","1,632,991",1.79%,"2,443.61",727,–
-0,XII,Cotabato City,city (,"325,079","299,438",1.74%,176.00,"1,847",–
-1,XII,General Santos,city (,"697,315","594,446",3.42%,492.86,"1,415",–
-0,XIII,Butuan,city (,"372,910","337,063",2.15%,816.62,457,–
+13,NCR,Quezon City,city (HUC),"2,960,048","2,936,116",0.17%,171.71,"17,239",142
+14,NCR,San Juan,city (HUC),"126,347","122,180",0.71%,5.95,"21,235",21
+15,NCR,Taguig,city (HUC),"886,722","804,915",2.06%,45.21,"19,613",28
+16,NCR,Valenzuela,city (HUC),"714,978","620,422",3.03%,47.02,"15,206",33
+0,CAR,Baguio,"city (HUC), regional center","366,358","345,366",1.25%,57.51,"6,370",–
+0,VI,Bacolod,"city (HUC), capital","600,783","561,875",1.42%,160.71,"3,738",–
+1,VI,Iloilo City,"city (HUC), capital, regional center","457,626","447,992",0.45%,78.34,"5,842",–
+0,VII,Cebu City,"city (HUC), capital, regional center","964,169","922,611",0.93%,315.00,"3,061",–
+1,VII,Lapu-Lapu,city (HUC),"497,604","408,112",4.26%,58.10,"8,565",–
+2,VII,Mandaue,city (HUC),"364,116","362,654",0.08%,25.18,"14,461",–
+0,VIII,Tacloban,"city (HUC), capital, regional center","251,881","242,089",0.84%,201.72,"1,249",–
+0,IX,Isabela City,"city (CC), capital","130,379","112,788",3.10%,223.73,583,–
+1,IX,Zamboanga City,city (HUC),"977,234","861,799",2.68%,"1,414.70",691,–
+0,X,Cagayan de Oro,"city (HUC), capital, regional center","728,402","675,950",1.59%,412.80,"1,765",–
+1,X,Iligan,city (HUC),"363,115","342,618",1.23%,813.37,446,–
+0,XI,Davao City,"city (HUC), regional center","1,776,949","1,632,991",1.79%,"2,443.61",727,–
+0,XII,Cotabato City,"city (ICC), regional center","325,079","299,438",1.74%,176.00,"1,847",–
+1,XII,General Santos,city (HUC),"697,315","594,446",3.42%,492.86,"1,415",–
+0,XIII,Butuan,"city (HUC), regional center","372,910","337,063",2.15%,816.62,457,–
 0,Ilocos Norte,Adams,municipality,"2,189","1,792",4.30%,159.31,14,1
 1,Ilocos Norte,Bacarra,municipality,"33,496","32,215",0.82%,65.32,513,43
 2,Ilocos Norte,Badoc,municipality,"32,530","31,616",0.60%,76.68,424,31
 3,Ilocos Norte,Bangui,municipality,"15,019","14,672",0.49%,108.76,138,14
 4,Ilocos Norte,Banna,municipality,"19,297","19,438",-0.15%,92.73,208,20
-5,Ilocos Norte,Batac,city (,"55,484","55,201",0.11%,161.06,344,43
+5,Ilocos Norte,Batac,city (CC),"55,484","55,201",0.11%,161.06,344,43
 6,Ilocos Norte,Burgos,municipality,"10,759","9,777",2.04%,128.90,83,11
 7,Ilocos Norte,Carasi,municipality,"1,607","1,567",0.53%,82.97,19,3
 8,Ilocos Norte,Currimao,municipality,"12,215","12,184",0.05%,34.08,358,23
 9,Ilocos Norte,Dingras,municipality,"40,127","38,562",0.84%,96.00,418,31
 10,Ilocos Norte,Dumalneg,municipality,"3,087","2,947",0.98%,92.69,33,4
-11,Ilocos Norte,Laoag,city (,"111,651","111,125",0.10%,116.08,962,80
+11,Ilocos Norte,Laoag,"city (CC), capital","111,651","111,125",0.10%,116.08,962,80
 12,Ilocos Norte,Marcos,municipality,"18,010","17,777",0.27%,72.77,247,13
 13,Ilocos Norte,Nueva Era,municipality,"11,968","9,506",4.97%,515.02,23,11
 14,Ilocos Norte,Pagudpud,municipality,"25,098","23,770",1.15%,194.90,129,16
@@ -63,7 +63,7 @@
 2,Ilocos Sur,Bantay,municipality,"37,118","35,731",0.81%,76.60,485,34
 3,Ilocos Sur,Burgos,municipality,"12,793","12,224",0.96%,44.38,288,26
 4,Ilocos Sur,Cabugao,municipality,"38,884","37,501",0.77%,95.56,407,33
-5,Ilocos Sur,Candon,city (,"61,432","60,623",0.28%,103.28,595,42
+5,Ilocos Sur,Candon,city (CC),"61,432","60,623",0.28%,103.28,595,42
 6,Ilocos Sur,Caoayan,municipality,"19,574","19,861",-0.31%,17.42,"1,124",17
 7,Ilocos Sur,Cervantes,municipality,"19,449","17,211",2.61%,234.70,83,13
 8,Ilocos Sur,Galimuyod,municipality,"10,244","10,748",-1.01%,34.40,298,24
@@ -91,7 +91,7 @@
 30,Ilocos Sur,Sugpon,municipality,"4,930","4,585",1.54%,57.11,86,6
 31,Ilocos Sur,Suyo,municipality,"10,766","11,446",-1.28%,124.00,87,8
 32,Ilocos Sur,Tagudin,municipality,"41,538","39,277",1.19%,151.19,275,43
-33,Ilocos Sur,Vigan,city (,"53,935","53,879",0.02%,25.12,"2,147",39
+33,Ilocos Sur,Vigan,"city (CC), capital","53,935","53,879",0.02%,25.12,"2,147",39
 0,La Union,Agoo,municipality,"66,028","63,692",0.76%,52.84,"1,250",49
 1,La Union,Aringay,municipality,"50,380","47,458",1.27%,84.54,596,24
 2,La Union,Bacnotan,municipality,"44,388","42,078",1.13%,78.18,568,47
@@ -105,7 +105,7 @@
 10,La Union,Naguilian,municipality,"52,189","54,221",-0.80%,104.60,499,37
 11,La Union,Pugo,municipality,"19,337","19,690",-0.38%,62.84,308,14
 12,La Union,Rosario,municipality,"60,278","55,458",1.77%,73.98,815,33
-13,La Union,San Fernando,city (,"125,640","121,812",0.65%,102.72,"1,223",59
+13,La Union,San Fernando,"city (CC), capital, regional center","125,640","121,812",0.65%,102.72,"1,223",59
 14,La Union,San Gabriel,municipality,"18,943","18,172",0.88%,129.87,146,15
 15,La Union,San Juan,municipality,"40,507","37,188",1.82%,57.12,709,41
 16,La Union,Santo Tomas,municipality,"40,846","39,092",0.93%,64.00,638,24
@@ -114,7 +114,7 @@
 19,La Union,Tubao,municipality,"31,763","28,729",2.14%,50.75,626,18
 0,Pangasinan,Agno,municipality,"29,947","28,052",1.39%,169.75,176,17
 1,Pangasinan,Aguilar,municipality,"45,100","41,463",1.79%,195.07,231,16
-2,Pangasinan,Alaminos,city (,"99,397","89,708",2.18%,164.26,605,39
+2,Pangasinan,Alaminos,city (CC),"99,397","89,708",2.18%,164.26,605,39
 3,Pangasinan,Alcala,municipality,"48,908","43,402",2.55%,45.71,"1,070",21
 4,Pangasinan,Anda,municipality,"41,548","39,504",1.07%,74.55,557,18
 5,Pangasinan,Asingan,municipality,"57,811","57,355",0.17%,66.64,868,21
@@ -129,12 +129,12 @@
 14,Pangasinan,Bugallon,municipality,"74,962","67,348",2.28%,189.64,395,24
 15,Pangasinan,Burgos,municipality,"23,749","21,637",1.98%,131.32,181,14
 16,Pangasinan,Calasiao,municipality,"100,471","95,154",1.15%,48.36,"2,078",24
-17,Pangasinan,Dagupan,city (,"174,302","171,271",0.37%,37.23,"4,682",31
+17,Pangasinan,Dagupan,city (ICC),"174,302","171,271",0.37%,37.23,"4,682",31
 18,Pangasinan,Dasol,municipality,"31,355","29,110",1.58%,166.60,188,18
 19,Pangasinan,Infanta,municipality,"26,242","24,584",1.38%,254.29,103,13
 20,Pangasinan,Labrador,municipality,"26,811","23,201",3.09%,90.99,295,10
 21,Pangasinan,Laoac,municipality,"34,128","31,497",1.70%,40.50,843,22
-22,Pangasinan,Lingayen,"municipality, ","107,728","103,278",0.89%,62.76,"1,717",32
+22,Pangasinan,Lingayen,"municipality, capital","107,728","103,278",0.89%,62.76,"1,717",32
 23,Pangasinan,Mabini,municipality,"26,454","24,765",1.40%,291.01,91,16
 24,Pangasinan,Malasiqui,municipality,"143,094","130,275",2.00%,131.37,"1,089",73
 25,Pangasinan,Manaoag,municipality,"76,045","69,497",1.91%,55.95,"1,359",26
@@ -144,7 +144,7 @@
 29,Pangasinan,Natividad,municipality,"25,771","24,299",1.25%,134.36,192,18
 30,Pangasinan,Pozorrubio,municipality,"74,729","69,555",1.52%,134.60,555,34
 31,Pangasinan,Rosales,municipality,"66,711","63,081",1.18%,66.39,"1,005",37
-32,Pangasinan,San Carlos,city (,"205,424","188,571",1.82%,169.03,"1,215",86
+32,Pangasinan,San Carlos,city (CC),"205,424","188,571",1.82%,169.03,"1,215",86
 33,Pangasinan,San Fabian,municipality,"87,428","83,025",1.09%,81.28,"1,076",34
 34,Pangasinan,San Jacinto,municipality,"44,351","40,848",1.75%,44.18,"1,004",19
 35,Pangasinan,San Manuel,municipality,"54,271","52,939",0.52%,129.18,420,14
@@ -158,9 +158,9 @@
 43,Pangasinan,Tayug,municipality,"45,241","43,149",1.00%,51.24,883,21
 44,Pangasinan,Umingan,municipality,"77,074","73,252",1.08%,258.43,298,58
 45,Pangasinan,Urbiztondo,municipality,"55,557","50,170",2.17%,81.80,679,21
-46,Pangasinan,Urdaneta,city (,"144,577","132,940",1.78%,98.21,"1,472",34
+46,Pangasinan,Urdaneta,city (CC),"144,577","132,940",1.78%,98.21,"1,472",34
 47,Pangasinan,Villasis,municipality,"65,047","62,333",0.90%,75.83,858,21
-0,Batanes,Basco,"municipality, ","9,517","8,579",2.21%,33.67,283,6
+0,Batanes,Basco,"municipality, capital","9,517","8,579",2.21%,33.67,283,6
 1,Batanes,Itbayat,municipality,"3,128","2,867",1.85%,83.13,38,5
 2,Batanes,Ivana,municipality,"1,407","1,327",1.24%,16.54,85,4
 3,Batanes,Mahatao,municipality,"1,703","1,555",1.93%,12.90,132,4
@@ -194,7 +194,7 @@
 25,Cagayan,Santo Niño,municipality,"28,537","27,219",1.00%,423.13,67,31
 26,Cagayan,Solana,municipality,"88,445","82,502",1.48%,234.60,377,38
 27,Cagayan,Tuao,municipality,"63,970","61,535",0.82%,225.82,283,32
-28,Cagayan,Tuguegarao,city (,"166,334","153,502",1.70%,144.80,"1,149",49
+28,Cagayan,Tuguegarao,"city (CC), capital, regional center","166,334","153,502",1.70%,144.80,"1,149",49
 0,Isabela,Alicia,municipality,"73,874","71,504",0.69%,154.10,479,34
 1,Isabela,Angadanan,municipality,"44,977","43,061",0.92%,204.40,220,59
 2,Isabela,Aurora,municipality,"36,621","35,017",0.95%,115.56,317,33
@@ -202,14 +202,14 @@
 4,Isabela,Burgos,municipality,"26,040","23,784",1.93%,73.10,356,14
 5,Isabela,Cabagan,municipality,"53,897","50,174",1.52%,430.40,125,26
 6,Isabela,Cabatuan,municipality,"39,990","39,413",0.31%,72.00,555,22
-7,Isabela,Cauayan,city (,"143,403","129,523",2.17%,336.40,426,65
+7,Isabela,Cauayan,city (CC),"143,403","129,523",2.17%,336.40,426,65
 8,Isabela,Cordon,municipality,"46,477","42,926",1.69%,144.00,323,26
 9,Isabela,Delfin Albano,municipality,"29,928","26,614",2.50%,189.00,158,29
 10,Isabela,Dinapigue,municipality,"5,821","5,005",3.23%,"1,031.93",6,6
 11,Isabela,Divilacan,municipality,"5,827","5,687",0.51%,889.49,7,12
 12,Isabela,Echague,municipality,"88,410","79,094",2.37%,648.38,136,64
 13,Isabela,Gamu,municipality,"30,655","29,904",0.52%,129.40,237,16
-14,Isabela,Ilagan,city (,"158,218","145,568",1.77%,"1,166.26",136,91
+14,Isabela,Ilagan,"city (CC), capital","158,218","145,568",1.77%,"1,166.26",136,91
 15,Isabela,Jones,municipality,"45,628","45,666",-0.02%,670.14,68,42
 16,Isabela,Luna,municipality,"20,697","19,326",1.45%,44.94,461,19
 17,Isabela,Maconacon,municipality,"3,977","4,253",-1.40%,538.66,7,10
@@ -229,7 +229,7 @@
 31,Isabela,San Mateo,municipality,"66,663","64,505",0.70%,242.10,275,33
 32,Isabela,San Pablo,municipality,"26,320","25,384",0.77%,637.90,41,17
 33,Isabela,Santa Maria,municipality,"25,758","25,382",0.31%,124.90,206,20
-34,Isabela,Santiago,city (,"148,580","134,830",2.07%,255.50,582,37
+34,Isabela,Santiago,city (ICC),"148,580","134,830",2.07%,255.50,582,37
 35,Isabela,Santo Tomas,municipality,"24,528","23,005",1.36%,80.58,304,27
 36,Isabela,Tumauini,municipality,"70,743","67,650",0.95%,471.68,150,46
 0,Nueva Vizcaya,Alfonso Castañeda,municipality,"8,539","7,940",1.54%,849.83,10,6
@@ -237,7 +237,7 @@
 2,Nueva Vizcaya,Aritao,municipality,"42,197","37,225",2.67%,265.60,159,22
 3,Nueva Vizcaya,Bagabag,municipality,"37,985","35,501",1.43%,183.90,207,17
 4,Nueva Vizcaya,Bambang,municipality,"55,789","53,433",0.91%,345.00,162,25
-5,Nueva Vizcaya,Bayombong,"municipality, ","67,714","61,512",2.04%,163.36,415,25
+5,Nueva Vizcaya,Bayombong,"municipality, capital","67,714","61,512",2.04%,163.36,415,25
 6,Nueva Vizcaya,Diadi,municipality,"19,236","18,122",1.26%,181.20,106,19
 7,Nueva Vizcaya,Dupax del Norte,municipality,"33,295","27,514",4.10%,347.30,96,15
 8,Nueva Vizcaya,Dupax del Sur,municipality,"21,224","19,111",2.23%,374.70,57,19
@@ -248,12 +248,12 @@
 13,Nueva Vizcaya,Solano,municipality,"65,287","59,517",1.97%,139.80,467,22
 14,Nueva Vizcaya,Villaverde,municipality,"20,118","18,507",1.77%,81.50,247,9
 0,Quirino,Aglipay,municipality,"30,714","27,787",2.13%,161.70,190,25
-1,Quirino,Cabarroguis,"municipality, ","33,533","30,582",1.96%,260.20,129,17
+1,Quirino,Cabarroguis,"municipality, capital","33,533","30,582",1.96%,260.20,129,17
 2,Quirino,Diffun,municipality,"56,102","52,569",1.38%,320.10,175,33
 3,Quirino,Maddela,municipality,"40,943","38,499",1.30%,918.57,45,32
 4,Quirino,Nagtipunan,municipality,"25,399","23,484",1.66%,607.40,42,16
 5,Quirino,Saguday,municipality,"17,137","16,070",1.36%,51.69,332,9
-0,Aurora,Baler,"municipality, ","43,785","39,562",2.16%,92.54,473,13
+0,Aurora,Baler,"municipality, capital","43,785","39,562",2.16%,92.54,473,13
 1,Aurora,Casiguran,municipality,"26,564","24,313",1.88%,715.43,37,24
 2,Aurora,Dilasag,municipality,"17,102","15,835",1.63%,306.25,56,11
 3,Aurora,Dinalungan,municipality,"12,508","11,322",2.12%,316.85,39,9
@@ -263,7 +263,7 @@
 7,Aurora,San Luis,municipality,"29,824","27,352",1.84%,609.85,49,18
 0,Bataan,Abucay,municipality,"42,984","39,880",1.59%,79.72,539,9
 1,Bataan,Bagac,municipality,"31,365","26,936",3.26%,231.20,136,14
-2,Bataan,Balanga,city (,"104,173","96,061",1.72%,111.63,933,25
+2,Bataan,Balanga,"city (CC), capital","104,173","96,061",1.72%,111.63,933,25
 3,Bataan,Dinalupihan,municipality,"118,209","106,371",2.25%,92.52,"1,278",46
 4,Bataan,Hermosa,municipality,"77,443","65,862",3.47%,157.00,493,23
 5,Bataan,Limay,municipality,"78,272","68,071",2.98%,103.60,756,12
@@ -283,9 +283,9 @@
 7,Bulacan,Doña Remedios Trinidad,municipality,"28,656","22,663",5.06%,932.96,31,8
 8,Bulacan,Guiguinto,municipality,"113,415","99,730",2.74%,27.50,"4,124",14
 9,Bulacan,Hagonoy,municipality,"133,448","129,807",0.58%,103.10,"1,294",26
-10,Bulacan,Malolos,city (,"261,189","252,074",0.75%,67.25,"3,884",51
+10,Bulacan,Malolos,"city (CC), capital","261,189","252,074",0.75%,67.25,"3,884",51
 11,Bulacan,Marilao,municipality,"254,453","221,965",2.92%,33.74,"7,542",16
-12,Bulacan,Meycauayan,city (,"225,673","209,083",1.62%,32.10,"7,030",26
+12,Bulacan,Meycauayan,city (CC),"225,673","209,083",1.62%,32.10,"7,030",26
 13,Bulacan,Norzagaray,municipality,"136,064","111,348",4.31%,309.77,439,13
 14,Bulacan,Obando,municipality,"59,978","59,197",0.28%,52.10,"1,151",11
 15,Bulacan,Pandi,municipality,"155,115","89,075",12.39%,31.20,"4,972",22
@@ -293,18 +293,18 @@
 17,Bulacan,Plaridel,municipality,"114,432","107,805",1.26%,32.44,"3,527",19
 18,Bulacan,Pulilan,municipality,"108,836","97,323",2.38%,39.89,"2,728",19
 19,Bulacan,San Ildefonso,municipality,"115,713","104,471",2.18%,128.71,899,36
-20,Bulacan,San Jose del Monte,city (,"651,813","574,089",2.71%,105.53,"6,177",59
+20,Bulacan,San Jose del Monte,city (CC),"651,813","574,089",2.71%,105.53,"6,177",59
 21,Bulacan,San Miguel,municipality,"172,073","153,882",2.38%,231.40,744,49
 22,Bulacan,San Rafael,municipality,"103,097","94,655",1.81%,152.43,676,34
 23,Bulacan,Santa Maria,municipality,"289,820","256,454",2.61%,90.92,"3,188",24
 0,Nueva Ecija,Aliaga,municipality,"70,363","63,543",2.17%,90.04,781,26
 1,Nueva Ecija,Bongabon,municipality,"66,839","64,173",0.86%,242.91,275,28
-2,Nueva Ecija,Cabanatuan,city (,"327,325","302,231",1.69%,282.75,"1,158",89
+2,Nueva Ecija,Cabanatuan,city (CC),"327,325","302,231",1.69%,282.75,"1,158",89
 3,Nueva Ecija,Cabiao,municipality,"85,862","79,007",1.77%,111.83,768,23
 4,Nueva Ecija,Carranglan,municipality,"42,420","41,131",0.65%,705.31,60,17
 5,Nueva Ecija,Cuyapo,municipality,"68,066","65,039",0.96%,215.73,316,51
 6,Nueva Ecija,Gabaldon,municipality,"38,958","35,383",2.05%,225.28,173,16
-7,Nueva Ecija,Gapan,city (,"122,968","110,303",2.31%,164.44,748,23
+7,Nueva Ecija,Gapan,city (CC),"122,968","110,303",2.31%,164.44,748,23
 8,Nueva Ecija,General Mamerto Natividad,municipality,"44,311","41,656",1.31%,118.00,376,20
 9,Nueva Ecija,General Tinio,municipality,"55,925","47,865",3.33%,533.08,105,13
 10,Nueva Ecija,Guimba,municipality,"127,653","118,655",1.55%,245.29,520,64
@@ -313,16 +313,16 @@
 13,Nueva Ecija,Licab,municipality,"29,269","28,254",0.75%,67.37,434,11
 14,Nueva Ecija,Llanera,municipality,"42,281","39,701",1.33%,114.44,369,22
 15,Nueva Ecija,Lupao,municipality,"45,917","43,788",1.00%,121.33,378,24
-16,Nueva Ecija,Muñoz,city (,"84,308","81,483",0.72%,163.05,517,37
+16,Nueva Ecija,Muñoz,city (CC),"84,308","81,483",0.72%,163.05,517,37
 17,Nueva Ecija,Nampicuan,municipality,"14,471","14,954",-0.69%,52.60,275,21
-18,Nueva Ecija,Palayan,city (,"45,383","41,041",2.14%,101.40,448,19
+18,Nueva Ecija,Palayan,"city (CC), capital","45,383","41,041",2.14%,101.40,448,19
 19,Nueva Ecija,Pantabangan,municipality,"31,763","29,925",1.26%,392.56,81,14
 20,Nueva Ecija,Peñaranda,municipality,"32,269","29,882",1.63%,95.00,340,10
 21,Nueva Ecija,Quezon,municipality,"41,845","40,592",0.64%,68.53,611,16
 22,Nueva Ecija,Rizal,municipality,"70,196","64,087",1.94%,120.55,582,26
 23,Nueva Ecija,San Antonio,municipality,"83,060","77,836",1.38%,153.56,541,16
 24,Nueva Ecija,San Isidro,municipality,"54,372","51,612",1.10%,56.49,963,9
-25,Nueva Ecija,San Jose,city (,"150,917","139,738",1.63%,185.99,811,38
+25,Nueva Ecija,San Jose,city (CC),"150,917","139,738",1.63%,185.99,811,38
 26,Nueva Ecija,San Leonardo,municipality,"68,536","65,299",1.02%,151.90,451,15
 27,Nueva Ecija,Santa Rosa,municipality,"75,649","69,467",1.81%,147.15,514,33
 28,Nueva Ecija,Santo Domingo,municipality,"61,092","57,943",1.12%,74.88,816,24
@@ -336,14 +336,14 @@
 4,Pampanga,Floridablanca,municipality,"135,542","125,163",1.69%,175.48,772,33
 5,Pampanga,Guagua,municipality,"128,893","117,430",1.98%,48.67,"2,648",31
 6,Pampanga,Lubao,municipality,"173,502","160,838",1.61%,155.77,"1,114",44
-7,Pampanga,Mabalacat,city (,"293,244","250,799",3.35%,82.20,"3,567",27
+7,Pampanga,Mabalacat,city (CC),"293,244","250,799",3.35%,82.20,"3,567",27
 8,Pampanga,Macabebe,municipality,"78,151","75,850",0.63%,105.16,743,25
 9,Pampanga,Magalang,municipality,"124,188","113,147",1.98%,97.32,"1,276",27
 10,Pampanga,Masantol,municipality,"57,990","57,063",0.34%,48.25,"1,202",26
 11,Pampanga,Mexico,municipality,"173,403","154,624",2.44%,117.41,"1,477",43
 12,Pampanga,Minalin,municipality,"48,380","47,713",0.29%,48.27,"1,002",15
 13,Pampanga,Porac,municipality,"140,751","124,381",2.64%,314.00,448,29
-14,Pampanga,San Fernando,city (,"354,666","306,659",3.11%,67.74,"5,236",35
+14,Pampanga,San Fernando,"city (CC), capital, regional center","354,666","306,659",3.11%,67.74,"5,236",35
 15,Pampanga,San Luis,municipality,"58,551","54,106",1.68%,56.83,"1,030",17
 16,Pampanga,San Simon,municipality,"59,182","53,198",2.27%,57.37,"1,032",14
 17,Pampanga,Santa Ana,municipality,"61,537","55,178",2.32%,39.84,"1,545",14
@@ -366,13 +366,13 @@
 13,Tarlac,San Jose,municipality,"41,182","36,253",2.72%,592.81,69,13
 14,Tarlac,San Manuel,municipality,"28,387","25,504",2.28%,42.10,674,15
 15,Tarlac,Santa Ignacia,municipality,"51,626","47,538",1.75%,146.07,353,24
-16,Tarlac,Tarlac City,city (,"385,398","342,493",2.52%,274.66,"1,403",76
+16,Tarlac,Tarlac City,"city (CC), capital","385,398","342,493",2.52%,274.66,"1,403",76
 17,Tarlac,Victoria,municipality,"69,370","63,715",1.81%,111.51,622,26
 0,Zambales,Botolan,municipality,"66,739","57,707",3.11%,735.28,91,31
 1,Zambales,Cabangan,municipality,"28,118","25,163",2.37%,175.29,160,22
 2,Zambales,Candelaria,municipality,"30,263","27,174",2.29%,333.59,91,16
 3,Zambales,Castillejos,municipality,"67,889","64,841",0.97%,92.99,730,14
-4,Zambales,Iba,"municipality, ","55,581","50,506",2.04%,153.38,362,14
+4,Zambales,Iba,"municipality, capital","55,581","50,506",2.04%,153.38,362,14
 5,Zambales,Masinloc,municipality,"54,529","47,719",2.85%,316.02,173,13
 6,Zambales,Palauig,municipality,"39,784","34,947",2.77%,310.00,128,19
 7,Zambales,San Antonio,municipality,"37,450","34,661",1.64%,188.12,199,14
@@ -385,7 +385,7 @@
 1,Batangas,Alitagtag,municipality,"26,819","25,300",1.24%,24.76,"1,083",19
 2,Batangas,Balayan,municipality,"95,913","90,699",1.18%,108.73,882,48
 3,Batangas,Balete,municipality,"24,055","22,661",1.26%,25.00,962,13
-4,Batangas,Batangas City,city (,"351,437","329,874",1.34%,282.96,"1,242",105
+4,Batangas,Batangas City,"city (CC), capital","351,437","329,874",1.34%,282.96,"1,242",105
 5,Batangas,Bauan,municipality,"90,819","91,297",-0.11%,53.31,"1,704",40
 6,Batangas,Calaca,municipality,"87,361","81,859",1.38%,114.58,762,40
 7,Batangas,Calatagan,municipality,"58,719","56,449",0.83%,101.50,579,25
@@ -394,7 +394,7 @@
 10,Batangas,Laurel,municipality,"43,210","39,444",1.94%,71.29,606,21
 11,Batangas,Lemery,municipality,"93,186","93,157",0.01%,109.80,849,46
 12,Batangas,Lian,municipality,"56,280","52,660",1.41%,76.80,733,19
-13,Batangas,Lipa,city (,"372,931","332,386",2.45%,209.40,"1,781",72
+13,Batangas,Lipa,city (CC),"372,931","332,386",2.45%,209.40,"1,781",72
 14,Batangas,Lobo,municipality,"40,736","41,504",-0.39%,175.03,233,26
 15,Batangas,Mabini,municipality,"50,858","46,211",2.04%,44.47,"1,144",34
 16,Batangas,Malvar,municipality,"64,379","56,270",2.87%,33.00,"1,951",15
@@ -408,23 +408,23 @@
 24,Batangas,San Nicolas,municipality,"23,908","22,623",1.17%,22.61,"1,057",18
 25,Batangas,San Pascual,municipality,"69,009","65,424",1.13%,50.70,"1,361",29
 26,Batangas,Santa Teresita,municipality,"21,559","21,127",0.43%,16.30,"1,323",17
-27,Batangas,Santo Tomas,city (,"218,500","179,844",4.18%,95.41,"2,290",30
+27,Batangas,Santo Tomas,city (CC),"218,500","179,844",4.18%,95.41,"2,290",30
 28,Batangas,Taal,municipality,"61,460","56,327",1.85%,29.76,"2,065",42
 29,Batangas,Talisay,municipality,"46,238","45,301",0.43%,28.20,"1,640",21
-30,Batangas,Tanauan,city (,"193,936","173,366",2.39%,107.16,"1,810",48
+30,Batangas,Tanauan,city (CC),"193,936","173,366",2.39%,107.16,"1,810",48
 31,Batangas,Taysan,municipality,"40,146","38,007",1.16%,93.62,429,20
 32,Batangas,Tingloy,municipality,"19,215","17,919",1.48%,33.07,581,15
 33,Batangas,Tuy,municipality,"46,519","43,743",1.30%,94.65,491,22
 0,Cavite,Alfonso,municipality,"59,306","51,839",2.87%,66.58,891,32
 1,Cavite,Amadeo,municipality,"41,901","37,649",2.28%,36.92,"1,135",26
-2,Cavite,Bacoor,city (,"664,625","600,609",2.16%,46.17,"14,395",73
+2,Cavite,Bacoor,city (CC),"664,625","600,609",2.16%,46.17,"14,395",73
 3,Cavite,Carmona,municipality,"106,256","97,557",1.81%,29.75,"3,572",14
-4,Cavite,Cavite City,city (,"100,674","102,806",-0.44%,10.89,"9,245",84
-5,Cavite,Dasmariñas,city (,"703,141","659,019",1.37%,90.13,"7,801",75
+4,Cavite,Cavite City,city (CC),"100,674","102,806",-0.44%,10.89,"9,245",84
+5,Cavite,Dasmariñas,city (CC),"703,141","659,019",1.37%,90.13,"7,801",75
 6,Cavite,General Emilio Aguinaldo,municipality,"23,973","22,220",1.61%,42.13,569,14
 7,Cavite,General Mariano Alvarez,municipality,"172,433","155,143",2.25%,9.40,"18,344",27
-8,Cavite,General Trias,city (,"450,583","314,303",7.88%,90.01,"5,006",33
-9,Cavite,Imus,city (,"496,794","403,785",4.46%,171.66,"2,894",97
+8,Cavite,General Trias,city (CC),"450,583","314,303",7.88%,90.01,"5,006",33
+9,Cavite,Imus,"city (CC), capital","496,794","403,785",4.46%,171.66,"2,894",97
 10,Cavite,Indang,municipality,"68,699","65,599",0.98%,74.90,917,36
 11,Cavite,Kawit,municipality,"107,535","83,466",5.48%,25.15,"4,276",23
 12,Cavite,Magallanes,municipality,"23,851","22,727",1.02%,73.07,326,16
@@ -434,15 +434,15 @@
 16,Cavite,Noveleta,municipality,"49,452","45,846",1.61%,16.43,"3,010",16
 17,Cavite,Rosario,municipality,"110,807","110,706",0.02%,7.61,"14,561",20
 18,Cavite,Silang,municipality,"295,644","248,085",3.76%,209.43,"1,412",64
-19,Cavite,Tagaytay,city (,"85,330","71,181",3.89%,65.00,"1,313",34
+19,Cavite,Tagaytay,city (CC),"85,330","71,181",3.89%,65.00,"1,313",34
 20,Cavite,Tanza,municipality,"312,116","226,188",7.01%,78.33,"3,985",41
 21,Cavite,Ternate,municipality,"24,653","23,157",1.33%,59.93,411,10
-22,Cavite,Trece Martires,city (,"210,503","155,713",6.55%,39.10,"5,384",13
+22,Cavite,Trece Martires,city (CC),"210,503","155,713",6.55%,39.10,"5,384",13
 0,Laguna,Alaminos,municipality,"51,619","47,859",1.61%,57.46,898,15
 1,Laguna,Bay,municipality,"67,182","62,143",1.66%,42.66,"1,575",15
-2,Laguna,Biñan,city (,"407,437","333,028",4.34%,40.27,"10,118",24
-3,Laguna,Cabuyao,city (,"355,330","308,745",3.00%,43.30,"8,206",18
-4,Laguna,Calamba,city (,"539,671","454,486",3.68%,149.50,"3,610",54
+2,Laguna,Biñan,city (CC),"407,437","333,028",4.34%,40.27,"10,118",24
+3,Laguna,Cabuyao,city (CC),"355,330","308,745",3.00%,43.30,"8,206",18
+4,Laguna,Calamba,"city (CC), regional center","539,671","454,486",3.68%,149.50,"3,610",54
 5,Laguna,Calauan,municipality,"87,693","80,453",1.83%,77.85,"1,126",17
 6,Laguna,Cavinti,municipality,"23,980","21,702",2.12%,203.58,118,19
 7,Laguna,Famy,municipality,"16,791","16,587",0.26%,53.06,316,20
@@ -461,11 +461,11 @@
 20,Laguna,Pangil,municipality,"25,026","24,274",0.64%,45.03,556,8
 21,Laguna,Pila,municipality,"54,613","50,289",1.75%,31.20,"1,750",17
 22,Laguna,Rizal,municipality,"18,332","17,253",1.29%,27.90,657,11
-23,Laguna,San Pablo,city (,"285,348","266,068",1.48%,197.56,"1,444",80
-24,Laguna,San Pedro,city (,"326,001","325,809",0.01%,24.05,"13,555",27
-25,Laguna,Santa Cruz,"municipality, ","123,574","117,605",1.05%,38.59,"3,202",26
+23,Laguna,San Pablo,city (CC),"285,348","266,068",1.48%,197.56,"1,444",80
+24,Laguna,San Pedro,city (CC),"326,001","325,809",0.01%,24.05,"13,555",27
+25,Laguna,Santa Cruz,"municipality, capital","123,574","117,605",1.05%,38.59,"3,202",26
 26,Laguna,Santa Maria,municipality,"34,511","30,830",2.40%,108.40,318,25
-27,Laguna,Santa Rosa,city (,"414,812","353,767",3.41%,54.84,"7,564",18
+27,Laguna,Santa Rosa,city (CC),"414,812","353,767",3.41%,54.84,"7,564",18
 28,Laguna,Siniloan,municipality,"39,460","38,067",0.76%,64.51,612,20
 29,Laguna,Victoria,municipality,"43,408","39,321",2.10%,22.35,"1,942",9
 0,Quezon,Agdangan,municipality,"12,764","12,851",-0.14%,31.54,405,12
@@ -505,11 +505,11 @@
 34,Quezon,San Narciso,municipality,"51,058","48,461",1.11%,263.58,194,24
 35,Quezon,Sariaya,municipality,"161,868","148,980",1.76%,212.16,763,43
 36,Quezon,Tagkawayan,municipality,"54,003","51,832",0.87%,534.35,101,45
-37,Quezon,Tayabas,city (,"112,658","99,779",2.59%,230.95,488,66
+37,Quezon,Tayabas,city (CC),"112,658","99,779",2.59%,230.95,488,66
 38,Quezon,Tiaong,municipality,"106,265","99,712",1.35%,168.38,631,31
 39,Quezon,Unisan,municipality,"25,448","26,884",-1.15%,124.15,205,36
 0,Rizal,Angono,municipality,"130,494","113,283",3.02%,26.22,"4,977",10
-1,Rizal,Antipolo,city (,"887,399","776,386",2.85%,306.10,"2,899",16
+1,Rizal,Antipolo,"city (CC), capital","887,399","776,386",2.85%,306.10,"2,899",16
 2,Rizal,Baras,municipality,"87,637","69,300",5.07%,84.93,"1,032",10
 3,Rizal,Binangonan,municipality,"313,631","282,474",2.23%,66.34,"4,728",40
 4,Rizal,Cainta,municipality,"376,933","322,128",3.36%,42.99,"8,768",7
@@ -522,7 +522,7 @@
 11,Rizal,Tanay,municipality,"139,420","117,830",3.61%,200.00,697,20
 12,Rizal,Taytay,municipality,"386,451","319,104",4.11%,38.80,"9,960",5
 13,Rizal,Teresa,municipality,"64,072","57,755",2.21%,18.61,"3,443",9
-0,Marinduque,Boac,"municipality, ","57,283","54,730",0.96%,212.70,269,61
+0,Marinduque,Boac,"municipality, capital","57,283","54,730",0.96%,212.70,269,61
 1,Marinduque,Buenavista,municipality,"26,043","23,988",1.75%,81.25,321,15
 2,Marinduque,Gasan,municipality,"36,197","34,828",0.82%,100.88,359,25
 3,Marinduque,Mogpog,municipality,"34,516","34,043",0.29%,108.06,319,37
@@ -533,7 +533,7 @@
 2,Occidental Mindoro,Looc,municipality,"7,802","10,117",-5.32%,132.30,59,9
 3,Occidental Mindoro,Lubang,municipality,"17,437","18,803",-1.58%,113.10,154,16
 4,Occidental Mindoro,Magsaysay,municipality,"39,767","36,016",2.11%,282.08,141,12
-5,Occidental Mindoro,Mamburao,"municipality, ","47,705","42,975",2.22%,283.51,168,15
+5,Occidental Mindoro,Mamburao,"municipality, capital","47,705","42,975",2.22%,283.51,168,15
 6,Occidental Mindoro,Paluan,municipality,"18,566","16,025",3.15%,564.50,33,12
 7,Occidental Mindoro,Rizal,municipality,"40,429","38,263",1.17%,242.50,167,11
 8,Occidental Mindoro,Sablayan,municipality,"92,598","83,169",2.29%,"2,188.80",42,22
@@ -543,7 +543,7 @@
 1,Oriental Mindoro,Bansud,municipality,"42,671","40,992",0.85%,343.47,124,13
 2,Oriental Mindoro,Bongabong,municipality,"76,973","72,073",1.39%,498.20,155,36
 3,Oriental Mindoro,Bulalacao,municipality,"44,366","39,107",2.69%,321.86,138,15
-4,Oriental Mindoro,Calapan,city (,"145,786","133,893",1.81%,250.06,583,62
+4,Oriental Mindoro,Calapan,"city (CC), capital, regional center","145,786","133,893",1.81%,250.06,583,62
 5,Oriental Mindoro,Gloria,municipality,"50,496","45,073",2.42%,245.52,206,27
 6,Oriental Mindoro,Mansalay,municipality,"59,114","54,533",1.71%,446.62,132,17
 7,Oriental Mindoro,Naujan,municipality,"109,587","102,998",1.31%,503.10,218,70
@@ -587,14 +587,14 @@
 7,Romblon,Looc,municipality,"21,799","22,262",-0.44%,132.82,164,12
 8,Romblon,Magdiwang,municipality,"15,385","14,142",1.79%,100.75,153,9
 9,Romblon,Odiongan,municipality,"49,284","45,367",1.76%,185.67,265,25
-10,Romblon,Romblon,"municipality, ","40,554","38,758",0.96%,86.87,467,31
+10,Romblon,Romblon,"municipality, capital","40,554","38,758",0.96%,86.87,467,31
 11,Romblon,San Agustin,municipality,"24,115","22,598",1.38%,140.48,172,15
 12,Romblon,San Andres,municipality,"15,940","15,589",0.47%,112.00,142,13
 13,Romblon,San Fernando,municipality,"24,171","23,271",0.80%,196.87,123,12
 14,Romblon,San Jose,municipality,"11,759","10,881",1.65%,22.05,533,5
 15,Romblon,Santa Fe,municipality,"17,802","16,098",2.14%,63.52,280,11
 16,Romblon,Santa Maria,municipality,"8,989","8,508",1.16%,36.20,248,6
-0,Abra,Bangued,"municipality, ","50,382","48,163",0.95%,136.40,369,31
+0,Abra,Bangued,"municipality, capital","50,382","48,163",0.95%,136.40,369,31
 1,Abra,Boliney,municipality,"4,551","3,573",5.23%,210.00,22,8
 2,Abra,Bucay,municipality,"17,953","17,115",1.01%,102.16,176,21
 3,Abra,Bucloc,municipality,"2,395","2,501",-0.91%,63.77,38,4
@@ -624,7 +624,7 @@
 0,Apayao,Calanasan,municipality,"12,550","12,604",-0.09%,"1,256.15",10,18
 1,Apayao,Conner,municipality,"27,552","26,051",1.19%,694.30,40,21
 2,Apayao,Flora,municipality,"17,944","17,391",0.66%,413.38,43,16
-3,Apayao,Kabugao,"municipality, ","16,215","15,537",0.90%,935.12,17,21
+3,Apayao,Kabugao,"municipality, capital","16,215","15,537",0.90%,935.12,17,21
 4,Apayao,Luna,municipality,"21,297","19,063",2.36%,606.04,35,22
 5,Apayao,Pudtol,municipality,"15,491","14,925",0.79%,401.02,39,22
 6,Apayao,Santa Marcela,municipality,"13,317","13,613",-0.46%,196.32,68,13
@@ -636,7 +636,7 @@
 5,Benguet,Kabayan,municipality,"15,806","15,260",0.74%,242.69,65,13
 6,Benguet,Kapangan,municipality,"19,297","19,361",-0.07%,164.39,117,15
 7,Benguet,Kibungan,municipality,"17,051","17,292",-0.30%,254.86,67,7
-8,Benguet,La Trinidad,"municipality, ","137,404","129,133",1.32%,70.04,"1,962",16
+8,Benguet,La Trinidad,"municipality, capital","137,404","129,133",1.32%,70.04,"1,962",16
 9,Benguet,Mankayan,municipality,"37,233","35,953",0.74%,130.48,285,12
 10,Benguet,Sablan,municipality,"11,588","11,457",0.24%,105.63,110,8
 11,Benguet,Tuba,municipality,"48,312","47,648",0.29%,295.97,163,13
@@ -648,7 +648,7 @@
 4,Ifugao,Hingyon,municipality,"9,930","9,227",1.56%,62.02,160,12
 5,Ifugao,Hungduan,municipality,"8,866","9,400",-1.22%,260.30,34,9
 6,Ifugao,Kiangan,municipality,"17,691","17,048",0.78%,200.00,88,14
-7,Ifugao,Lagawe,"municipality, ","18,876","19,333",-0.50%,208.91,90,20
+7,Ifugao,Lagawe,"municipality, capital","18,876","19,333",-0.50%,208.91,90,20
 8,Ifugao,Lamut,municipality,"26,235","25,279",0.78%,149.45,176,18
 9,Ifugao,Mayoyao,municipality,"15,621","17,331",-2.16%,238.05,66,27
 10,Ifugao,Tinoc,municipality,"18,475","16,559",2.33%,239.70,77,12
@@ -657,13 +657,13 @@
 2,Kalinga,Pasil,municipality,"10,577","9,644",1.96%,189.00,56,14
 3,Kalinga,Pinukpuk,municipality,"34,275","32,026",1.44%,743.56,46,23
 4,Kalinga,Rizal,municipality,"19,554","17,038",2.94%,281.79,69,14
-5,Kalinga,Tabuk,city (,"121,033","110,642",1.91%,700.25,173,43
+5,Kalinga,Tabuk,"city (CC), capital","121,033","110,642",1.91%,700.25,173,43
 6,Kalinga,Tanudan,municipality,"8,746","9,534",-1.80%,307.55,28,16
 7,Kalinga,Tinglayan,municipality,"13,148","12,868",0.45%,283.00,46,20
 0,Mountain Province,Barlig,municipality,"4,796","4,819",-0.10%,228.64,21,11
 1,Mountain Province,Bauko,municipality,"32,021","31,065",0.64%,170.37,188,22
 2,Mountain Province,Besao,municipality,"6,873","7,040",-0.50%,173.62,40,14
-3,Mountain Province,Bontoc,"municipality, ","24,104","24,643",-0.46%,396.10,61,16
+3,Mountain Province,Bontoc,"municipality, capital","24,104","24,643",-0.46%,396.10,61,16
 4,Mountain Province,Natonin,municipality,"10,339","10,272",0.14%,252.00,41,11
 5,Mountain Province,Paracelis,municipality,"31,168","28,121",2.19%,570.16,55,9
 6,Mountain Province,Sabangan,municipality,"9,621","9,315",0.68%,72.04,134,15
@@ -676,7 +676,7 @@
 3,Aklan,Batan,municipality,"33,484","32,032",0.94%,79.22,423,20
 4,Aklan,Buruanga,municipality,"19,357","19,003",0.39%,56.44,343,15
 5,Aklan,Ibajay,municipality,"52,364","49,564",1.16%,158.90,330,35
-6,Aklan,Kalibo,"municipality, ","89,127","80,605",2.14%,50.75,"1,756",16
+6,Aklan,Kalibo,"municipality, capital","89,127","80,605",2.14%,50.75,"1,756",16
 7,Aklan,Lezo,municipality,"15,639","15,224",0.57%,23.40,668,12
 8,Aklan,Libacao,municipality,"28,272","28,241",0.02%,254.98,111,24
 9,Aklan,Madalag,municipality,"18,890","18,389",0.57%,269.60,70,25
@@ -698,7 +698,7 @@
 8,Antique,Libertad,municipality,"17,507","16,429",1.35%,97.00,180,19
 9,Antique,Pandan,municipality,"35,965","34,333",0.98%,113.98,316,34
 10,Antique,Patnongon,municipality,"38,329","37,176",0.65%,167.92,228,36
-11,Antique,San Jose de Buenavista,"municipality, ","65,140","62,534",0.86%,48.56,"1,341",28
+11,Antique,San Jose de Buenavista,"municipality, capital","65,140","62,534",0.86%,48.56,"1,341",28
 12,Antique,San Remigio,municipality,"34,045","31,935",1.36%,406.98,84,45
 13,Antique,Sebaste,municipality,"18,816","17,907",1.05%,111.64,169,10
 14,Antique,Sibalom,municipality,"63,833","60,306",1.20%,201.30,317,76
@@ -718,12 +718,12 @@
 10,Capiz,Pilar,municipality,"47,100","45,287",0.83%,77.99,604,24
 11,Capiz,Pontevedra,municipality,"49,725","46,428",1.45%,130.90,380,26
 12,Capiz,President Roxas,municipality,"31,269","29,676",1.11%,77.88,402,22
-13,Capiz,Roxas City,city (,"179,292","167,003",1.51%,95.07,"1,886",47
+13,Capiz,Roxas City,"city (CC), capital","179,292","167,003",1.51%,95.07,"1,886",47
 14,Capiz,Sapian,municipality,"26,697","25,821",0.70%,105.24,254,10
 15,Capiz,Sigma,municipality,"31,688","30,134",1.06%,101.71,312,21
 16,Capiz,Tapaz,municipality,"54,423","51,313",1.25%,517.18,105,58
 0,Guimaras,Buenavista,municipality,"52,899","50,437",1.01%,115.60,458,36
-1,Guimaras,Jordan,"municipality, ","39,566","36,096",1.95%,126.11,314,14
+1,Guimaras,Jordan,"municipality, capital","39,566","36,096",1.95%,126.11,314,14
 2,Guimaras,Nueva Valencia,municipality,"42,771","39,810",1.52%,137.12,312,22
 3,Guimaras,San Lorenzo,municipality,"29,444","26,112",2.56%,106.23,277,12
 4,Guimaras,Sibunag,municipality,"23,162","22,158",0.94%,126.81,183,14
@@ -757,7 +757,7 @@
 27,Iloilo,Mina,municipality,"24,042","23,546",0.44%,43.40,554,22
 28,Iloilo,New Lucena,municipality,"24,314","23,240",0.96%,44.10,551,21
 29,Iloilo,Oton,municipality,"98,509","89,115",2.13%,86.44,"1,140",37
-30,Iloilo,Passi,city (,"88,873","80,544",2.09%,251.39,354,51
+30,Iloilo,Passi,city (CC),"88,873","80,544",2.09%,251.39,354,51
 31,Iloilo,Pavia,municipality,"70,388","55,603",5.09%,27.15,"2,593",18
 32,Iloilo,Pototan,municipality,"78,298","75,070",0.89%,97.10,806,50
 33,Iloilo,San Dionisio,municipality,"39,048","38,775",0.15%,127.06,307,29
@@ -770,37 +770,37 @@
 40,Iloilo,Tigbauan,municipality,"65,245","62,706",0.84%,83.68,780,52
 41,Iloilo,Tubungan,municipality,"23,021","22,449",0.53%,85.18,270,48
 42,Iloilo,Zarraga,municipality,"27,305","25,605",1.36%,54.48,501,24
-0,Negros Occidental,Bago,city (,"191,210","170,981",2.38%,371.80,514,24
+0,Negros Occidental,Bago,city (CC),"191,210","170,981",2.38%,371.80,514,24
 1,Negros Occidental,Binalbagan,municipality,"71,407","67,270",1.26%,189.96,376,16
-2,Negros Occidental,Cadiz,city (,"158,544","154,723",0.51%,524.57,302,22
+2,Negros Occidental,Cadiz,city (CC),"158,544","154,723",0.51%,524.57,302,22
 3,Negros Occidental,Calatrava,municipality,"82,540","80,624",0.50%,504.50,164,40
 4,Negros Occidental,Candoni,municipality,"23,751","21,789",1.83%,220.95,107,9
 5,Negros Occidental,Cauayan,municipality,"108,480","102,165",1.27%,520.00,209,25
 6,Negros Occidental,Enrique B. Magalona,municipality,"64,290","62,921",0.45%,113.25,568,23
-7,Negros Occidental,Escalante,city (,"96,159","94,070",0.46%,192.76,499,21
-8,Negros Occidental,Himamaylan,city (,"116,240","106,880",1.78%,367.04,317,19
+7,Negros Occidental,Escalante,city (CC),"96,159","94,070",0.46%,192.76,499,21
+8,Negros Occidental,Himamaylan,city (CC),"116,240","106,880",1.78%,367.04,317,19
 9,Negros Occidental,Hinigaran,municipality,"88,909","85,602",0.80%,154.92,574,24
 10,Negros Occidental,Hinoba-an,municipality,"60,865","56,819",1.46%,414.50,147,13
 11,Negros Occidental,Ilog,municipality,"59,855","57,389",0.89%,322.10,186,15
 12,Negros Occidental,Isabela,municipality,"64,516","62,146",0.79%,178.76,361,30
-13,Negros Occidental,Kabankalan,city (,"200,198","181,977",2.03%,699.27,286,32
-14,Negros Occidental,La Carlota,city (,"66,664","64,469",0.71%,137.29,486,14
+13,Negros Occidental,Kabankalan,city (CC),"200,198","181,977",2.03%,699.27,286,32
+14,Negros Occidental,La Carlota,city (CC),"66,664","64,469",0.71%,137.29,486,14
 15,Negros Occidental,La Castellana,municipality,"79,492","74,855",1.27%,185.22,429,13
 16,Negros Occidental,Manapla,municipality,"55,083","54,845",0.09%,112.86,488,12
 17,Negros Occidental,Moises Padilla,municipality,"43,462","41,386",1.04%,144.10,302,15
 18,Negros Occidental,Murcia,municipality,"88,868","81,286",1.90%,279.14,318,23
 19,Negros Occidental,Pontevedra,municipality,"54,502","51,866",1.05%,110.95,491,20
 20,Negros Occidental,Pulupandan,municipality,"30,117","27,735",1.75%,18.49,"1,629",20
-21,Negros Occidental,Sagay,city (,"148,894","146,264",0.38%,330.34,451,25
+21,Negros Occidental,Sagay,city (CC),"148,894","146,264",0.38%,330.34,451,25
 22,Negros Occidental,Salvador Benedicto,municipality,"26,922","25,662",1.01%,170.56,158,7
-23,Negros Occidental,San Carlos,city (,"132,650","132,536",0.02%,451.50,294,18
+23,Negros Occidental,San Carlos,city (CC),"132,650","132,536",0.02%,451.50,294,18
 24,Negros Occidental,San Enrique,municipality,"24,177","23,907",0.24%,28.84,838,10
-25,Negros Occidental,Silay,city (,"130,478","126,930",0.58%,220.21,593,16
-26,Negros Occidental,Sipalay,city (,"72,448","70,070",0.71%,379.78,191,17
-27,Negros Occidental,Talisay,city (,"108,909","102,214",1.34%,201.18,541,27
+25,Negros Occidental,Silay,city (CC),"130,478","126,930",0.58%,220.21,593,16
+26,Negros Occidental,Sipalay,city (CC),"72,448","70,070",0.71%,379.78,191,17
+27,Negros Occidental,Talisay,city (CC),"108,909","102,214",1.34%,201.18,541,27
 28,Negros Occidental,Toboso,municipality,"43,445","42,114",0.66%,117.33,370,9
 29,Negros Occidental,Valladolid,municipality,"39,996","37,833",1.18%,48.03,833,16
-30,Negros Occidental,Victorias,city (,"90,101","87,933",0.51%,133.92,673,26
+30,Negros Occidental,Victorias,city (CC),"90,101","87,933",0.51%,133.92,673,26
 0,Bohol,Alburquerque,municipality,"11,246","10,540",1.37%,26.98,417,11
 1,Bohol,Alicia,municipality,"24,374","23,517",0.76%,114.50,213,15
 2,Bohol,Anda,municipality,"17,778","16,462",1.63%,61.89,287,16
@@ -843,7 +843,7 @@
 39,Bohol,Sevilla,municipality,"11,376","10,661",1.38%,116.75,97,13
 40,Bohol,Sierra Bullones,municipality,"26,095","24,745",1.12%,198.87,131,22
 41,Bohol,Sikatuna,municipality,"6,906","6,726",0.56%,38.22,181,10
-42,Bohol,Tagbilaran,city (,"104,976","105,051",-0.02%,36.50,"2,876",15
+42,Bohol,Tagbilaran,"city (CC), capital","104,976","105,051",-0.02%,36.50,"2,876",15
 43,Bohol,Talibon,municipality,"71,272","66,969",1.32%,140.46,507,25
 44,Bohol,Trinidad,municipality,"35,119","31,956",2.01%,195.30,180,20
 45,Bohol,Tubigon,municipality,"47,886","45,893",0.90%,81.87,585,34
@@ -859,10 +859,10 @@
 7,Cebu,Balamban,municipality,"95,136","87,177",1.86%,333.56,285,28
 8,Cebu,Bantayan,municipality,"86,247","79,084",1.84%,81.68,"1,056",25
 9,Cebu,Barili,municipality,"80,715","73,862",1.89%,122.21,660,42
-10,Cebu,Bogo,city (,"88,867","78,120",2.75%,103.52,858,29
+10,Cebu,Bogo,city (CC),"88,867","78,120",2.75%,103.52,858,29
 11,Cebu,Boljoon,municipality,"17,525","16,344",1.48%,117.00,150,11
 12,Cebu,Borbon,municipality,"38,187","35,526",1.53%,120.94,316,19
-13,Cebu,Carcar,city (,"136,453","119,664",2.80%,116.78,"1,168",15
+13,Cebu,Carcar,city (CC),"136,453","119,664",2.80%,116.78,"1,168",15
 14,Cebu,Carmen,municipality,"57,897","51,325",2.57%,84.78,683,21
 15,Cebu,Catmon,municipality,"33,745","30,471",2.17%,109.64,308,20
 16,Cebu,Compostela,municipality,"55,874","47,898",3.30%,53.90,"1,037",17
@@ -870,7 +870,7 @@
 18,Cebu,Cordova,municipality,"70,595","59,712",3.59%,17.15,"4,116",13
 19,Cebu,Daanbantayan,municipality,"93,502","84,430",2.17%,92.27,"1,013",20
 20,Cebu,Dalaguete,municipality,"74,596","67,497",2.13%,154.96,481,33
-21,Cebu,Danao,city (,"156,321","136,471",2.90%,107.30,"1,457",42
+21,Cebu,Danao,city (CC),"156,321","136,471",2.90%,107.30,"1,457",42
 22,Cebu,Dumanjug,municipality,"57,823","51,210",2.59%,85.53,676,37
 23,Cebu,Ginatilan,municipality,"16,906","15,919",1.27%,70.10,241,14
 24,Cebu,Liloan,municipality,"153,197","118,753",5.51%,45.92,"3,336",14
@@ -879,7 +879,7 @@
 27,Cebu,Medellin,municipality,"59,605","55,332",1.58%,73.19,814,19
 28,Cebu,Minglanilla,municipality,"151,002","132,135",2.85%,65.60,"2,302",19
 29,Cebu,Moalboal,municipality,"36,930","31,130",3.66%,124.86,296,15
-30,Cebu,Naga,city (,"133,184","115,750",3.00%,101.97,"1,306",28
+30,Cebu,Naga,city (CC),"133,184","115,750",3.00%,101.97,"1,306",28
 31,Cebu,Oslob,municipality,"29,264","27,893",1.02%,134.75,217,21
 32,Cebu,Pilar,municipality,"12,506","11,308",2.14%,32.42,386,13
 33,Cebu,Pinamungajan,municipality,"75,131","65,955",2.78%,109.16,688,26
@@ -895,21 +895,21 @@
 43,Cebu,Sogod,municipality,"39,447","35,108",2.48%,119.23,331,18
 44,Cebu,Tabogon,municipality,"41,432","39,013",1.27%,101.35,409,25
 45,Cebu,Tabuelan,municipality,"28,907","25,630",2.57%,141.13,205,12
-46,Cebu,Talisay,city (,"263,048","227,645",3.09%,39.87,"6,598",22
-47,Cebu,Toledo,city (,"207,314","170,335",4.22%,216.28,959,38
+46,Cebu,Talisay,city (CC),"263,048","227,645",3.09%,39.87,"6,598",22
+47,Cebu,Toledo,city (CC),"207,314","170,335",4.22%,216.28,959,38
 48,Cebu,Tuburan,municipality,"68,167","63,866",1.38%,224.50,304,54
 49,Cebu,Tudela,municipality,"11,304","11,296",0.01%,33.02,342,11
 0,Negros Oriental,Amlan,municipality,"25,513","23,624",1.63%,111.85,228,8
 1,Negros Oriental,Ayungon,municipality,"47,102","46,303",0.36%,265.10,178,24
 2,Negros Oriental,Bacong,municipality,"41,207","36,527",2.57%,40.30,"1,023",22
-3,Negros Oriental,Bais,city (,"84,317","76,291",2.13%,319.64,264,35
+3,Negros Oriental,Bais,city (CC),"84,317","76,291",2.13%,319.64,264,35
 4,Negros Oriental,Basay,municipality,"28,531","26,566",1.51%,162.00,176,10
-5,Negros Oriental,Bayawan,city (,"122,747","117,900",0.85%,699.08,176,28
+5,Negros Oriental,Bayawan,city (CC),"122,747","117,900",0.85%,699.08,176,28
 6,Negros Oriental,Bindoy,municipality,"40,308","39,819",0.26%,173.70,232,22
-7,Negros Oriental,Canlaon,city (,"58,822","54,509",1.62%,170.93,344,12
+7,Negros Oriental,Canlaon,city (CC),"58,822","54,509",1.62%,170.93,344,12
 8,Negros Oriental,Dauin,municipality,"30,018","27,786",1.64%,114.10,263,23
-9,Negros Oriental,Dumaguete,city (,"134,103","131,377",0.43%,33.62,"3,989",30
-10,Negros Oriental,Guihulngan,city (,"102,656","95,969",1.43%,388.56,264,33
+9,Negros Oriental,Dumaguete,"city (CC), capital","134,103","131,377",0.43%,33.62,"3,989",30
+10,Negros Oriental,Guihulngan,city (CC),"102,656","95,969",1.43%,388.56,264,33
 11,Negros Oriental,Jimalalud,municipality,"32,256","30,945",0.88%,139.50,231,28
 12,Negros Oriental,La Libertad,municipality,"41,089","38,602",1.32%,174.64,235,29
 13,Negros Oriental,Mabinay,municipality,"82,953","78,864",1.07%,319.44,260,32
@@ -919,7 +919,7 @@
 17,Negros Oriental,Santa Catalina,municipality,"77,501","75,756",0.48%,523.10,148,22
 18,Negros Oriental,Siaton,municipality,"83,082","77,696",1.42%,335.90,247,26
 19,Negros Oriental,Sibulan,municipality,"64,343","59,455",1.68%,163.00,395,15
-20,Negros Oriental,Tanjay,city (,"82,642","80,532",0.55%,276.05,299,24
+20,Negros Oriental,Tanjay,city (CC),"82,642","80,532",0.55%,276.05,299,24
 21,Negros Oriental,Tayasan,municipality,"38,159","35,470",1.55%,154.20,247,28
 22,Negros Oriental,Valencia,municipality,"38,733","34,852",2.25%,147.49,263,24
 23,Negros Oriental,Vallehermoso,municipality,"40,779","38,259",1.35%,101.25,403,15
@@ -929,7 +929,7 @@
 2,Siquijor,Lazi,municipality,"22,488","20,490",1.98%,70.64,318,18
 3,Siquijor,Maria,municipality,"14,385","13,828",0.83%,53.37,270,22
 4,Siquijor,San Juan,municipality,"16,363","14,854",2.06%,44.37,369,15
-5,Siquijor,Siquijor,"municipality, ","28,915","26,861",1.56%,90.70,319,42
+5,Siquijor,Siquijor,"municipality, capital","28,915","26,861",1.56%,90.70,319,42
 0,Biliran,Almeria,municipality,"17,954","16,951",1.22%,57.46,312,13
 1,Biliran,Biliran,municipality,"17,662","16,882",0.96%,70.30,251,11
 2,Biliran,Cabucgayan,municipality,"21,542","20,788",0.75%,54.19,398,13
@@ -937,11 +937,11 @@
 4,Biliran,Culaba,municipality,"12,972","12,325",1.08%,73.42,177,17
 5,Biliran,Kawayan,municipality,"20,455","20,291",0.17%,61.02,335,20
 6,Biliran,Maripipi,municipality,"6,373","7,159",-2.42%,27.83,229,15
-7,Biliran,Naval,"municipality, ","58,187","54,692",1.31%,108.24,538,26
+7,Biliran,Naval,"municipality, capital","58,187","54,692",1.31%,108.24,538,26
 0,Eastern Samar,Arteche,municipality,"16,360","16,026",0.44%,138.81,118,20
 1,Eastern Samar,Balangiga,municipality,"14,341","14,085",0.38%,190.05,75,13
 2,Eastern Samar,Balangkayan,municipality,"10,185","10,125",0.12%,207.05,49,15
-3,Eastern Samar,Borongan,city (,"71,961","69,297",0.80%,475.00,151,61
+3,Eastern Samar,Borongan,"city (CC), capital","71,961","69,297",0.80%,475.00,151,61
 4,Eastern Samar,Can-avid,municipality,"21,682","21,015",0.66%,288.70,75,28
 5,Eastern Samar,Dolores,municipality,"44,626","42,866",0.85%,308.58,145,46
 6,Eastern Samar,General MacArthur,municipality,"14,411","14,550",-0.20%,117.29,123,30
@@ -967,7 +967,7 @@
 3,Leyte,Babatngon,municipality,"28,823","27,797",0.77%,115.18,250,25
 4,Leyte,Barugo,municipality,"34,497","32,745",1.10%,84.62,408,37
 5,Leyte,Bato,municipality,"38,505","38,356",0.08%,72.45,531,32
-6,Leyte,Baybay,city (,"111,848","109,432",0.46%,459.34,243,92
+6,Leyte,Baybay,city (CC),"111,848","109,432",0.46%,459.34,243,92
 7,Leyte,Burauen,municipality,"52,511","52,732",-0.09%,265.33,198,77
 8,Leyte,Calubian,municipality,"31,646","31,228",0.28%,100.95,313,53
 9,Leyte,Capoocan,municipality,"33,721","33,617",0.07%,185.40,182,21
@@ -990,7 +990,7 @@
 26,Leyte,Matalom,municipality,"32,586","33,121",-0.34%,132.00,247,30
 27,Leyte,Mayorga,municipality,"18,071","17,161",1.09%,42.17,429,16
 28,Leyte,Merida,municipality,"31,574","29,863",1.18%,95.21,332,22
-29,Leyte,Ormoc,city (,"230,998","215,031",1.52%,613.60,376,110
+29,Leyte,Ormoc,city (ICC),"230,998","215,031",1.52%,613.60,376,110
 30,Leyte,Palo,municipality,"76,213","70,052",1.79%,221.27,344,33
 31,Leyte,Palompon,municipality,"58,313","58,108",0.07%,126.07,463,50
 32,Leyte,Pastrana,municipality,"19,359","18,002",1.54%,86.35,224,29
@@ -1007,7 +1007,7 @@
 1,Northern Samar,Biri,municipality,"11,274","11,767",-0.90%,24.62,458,8
 2,Northern Samar,Bobon,municipality,"25,964","23,668",1.97%,130.00,200,18
 3,Northern Samar,Capul,municipality,"12,323","12,679",-0.60%,35.56,347,12
-4,Northern Samar,Catarman,"municipality, ","97,879","94,037",0.85%,464.43,211,55
+4,Northern Samar,Catarman,"municipality, capital","97,879","94,037",0.85%,464.43,211,55
 5,Northern Samar,Catubig,municipality,"32,174","33,025",-0.55%,217.02,148,47
 6,Northern Samar,Gamay,municipality,"23,367","23,511",-0.13%,115.10,203,26
 7,Northern Samar,Laoang,municipality,"60,607","61,359",-0.26%,246.94,245,56
@@ -1029,9 +1029,9 @@
 23,Northern Samar,Victoria,municipality,"15,361","14,817",0.76%,186.70,82,16
 0,Samar,Almagro,municipality,"9,273","8,942",0.77%,51.36,181,23
 1,Samar,Basey,municipality,"56,685","55,480",0.45%,513.01,110,51
-2,Samar,Calbayog,city (,"186,960","183,851",0.35%,880.74,212,157
+2,Samar,Calbayog,city (CC),"186,960","183,851",0.35%,880.74,212,157
 3,Samar,Calbiga,municipality,"23,310","22,982",0.30%,283.70,82,41
-4,Samar,Catbalogan,city (,"106,440","103,879",0.51%,274.22,388,57
+4,Samar,Catbalogan,"city (CC), capital","106,440","103,879",0.51%,274.22,388,57
 5,Samar,Daram,municipality,"41,608","42,879",-0.63%,140.26,297,58
 6,Samar,Gandara,municipality,"35,242","34,434",0.49%,573.49,61,69
 7,Samar,Hinabangan,municipality,"13,693","13,673",0.03%,460.08,30,21
@@ -1060,7 +1060,7 @@
 4,Southern Leyte,Libagon,municipality,"15,244","15,169",0.10%,98.62,155,14
 5,Southern Leyte,Liloan,municipality,"24,800","23,981",0.71%,50.30,493,24
 6,Southern Leyte,Limasawa,municipality,"6,191","6,061",0.45%,6.98,887,6
-7,Southern Leyte,Maasin,city (,"87,446","85,560",0.46%,211.71,413,70
+7,Southern Leyte,Maasin,"city (CC), capital","87,446","85,560",0.46%,211.71,413,70
 8,Southern Leyte,Macrohon,municipality,"26,580","26,244",0.27%,126.39,210,30
 9,Southern Leyte,Malitbog,municipality,"23,256","22,923",0.30%,77.82,299,37
 10,Southern Leyte,Padre Burgos,municipality,"11,159","11,091",0.13%,25.65,435,11
@@ -1073,8 +1073,8 @@
 17,Southern Leyte,Sogod,municipality,"47,552","44,986",1.17%,192.70,247,45
 18,Southern Leyte,Tomas Oppus,municipality,"16,990","16,608",0.48%,56.11,303,29
 0,Zamboanga del Norte,Baliguian,municipality,"23,771","22,588",1.08%,439.26,54,17
-1,Zamboanga del Norte,Dapitan,city (,"85,202","82,418",0.70%,390.53,218,50
-2,Zamboanga del Norte,Dipolog,city (,"138,141","130,759",1.16%,241.13,573,21
+1,Zamboanga del Norte,Dapitan,city (CC),"85,202","82,418",0.70%,390.53,218,50
+2,Zamboanga del Norte,Dipolog,"city (CC), capital","138,141","130,759",1.16%,241.13,573,21
 3,Zamboanga del Norte,Godod,municipality,"17,510","17,424",0.10%,190.00,92,17
 4,Zamboanga del Norte,Gutalac,municipality,"36,090","34,654",0.86%,492.86,73,33
 5,Zamboanga del Norte,Jose Dalman,municipality,"28,881","27,388",1.12%,135.00,214,18
@@ -1115,7 +1115,7 @@
 13,Zamboanga del Sur,Margosatubig,municipality,"38,660","37,873",0.43%,111.69,346,17
 14,Zamboanga del Sur,Midsalip,municipality,"33,711","32,075",1.05%,161.56,209,33
 15,Zamboanga del Sur,Molave,municipality,"53,140","52,006",0.46%,251.50,211,25
-16,Zamboanga del Sur,Pagadian,city (,"210,452","199,060",1.18%,378.80,556,54
+16,Zamboanga del Sur,Pagadian,"city (CC), capital, regional center","210,452","199,060",1.18%,378.80,556,54
 17,Zamboanga del Sur,Pitogo,municipality,"27,516","27,057",0.35%,95.94,287,15
 18,Zamboanga del Sur,Ramon Magsaysay,municipality,"27,280","26,606",0.53%,113.70,240,27
 19,Zamboanga del Sur,San Miguel,municipality,"19,838","19,205",0.69%,181.59,109,18
@@ -1130,7 +1130,7 @@
 1,Zamboanga Sibugay,Buug,municipality,"38,425","36,634",1.01%,134.06,287,27
 2,Zamboanga Sibugay,Diplahan,municipality,"32,585","32,428",0.10%,255.51,128,22
 3,Zamboanga Sibugay,Imelda,municipality,"26,020","28,018",-1.55%,85.12,306,18
-4,Zamboanga Sibugay,Ipil,"municipality, ","89,401","74,656",3.87%,168.46,531,28
+4,Zamboanga Sibugay,Ipil,"municipality, capital","89,401","74,656",3.87%,168.46,531,28
 5,Zamboanga Sibugay,Kabasalan,municipality,"46,884","44,336",1.18%,289.20,162,29
 6,Zamboanga Sibugay,Mabuhay,municipality,"37,390","36,870",0.30%,82.85,451,18
 7,Zamboanga Sibugay,Malangas,municipality,"32,022","33,380",-0.87%,235.53,136,25
@@ -1154,7 +1154,7 @@
 9,Bukidnon,Kitaotao,municipality,"53,796","50,260",1.44%,788.78,68,35
 10,Bukidnon,Lantapan,municipality,"65,974","61,776",1.39%,328.35,201,14
 11,Bukidnon,Libona,municipality,"48,965","43,969",2.29%,374.37,131,14
-12,Bukidnon,Malaybalay,city (,"190,712","174,625",1.87%,969.19,197,46
+12,Bukidnon,Malaybalay,"city (CC), capital","190,712","174,625",1.87%,969.19,197,46
 13,Bukidnon,Malitbog,municipality,"26,741","24,453",1.90%,581.85,46,11
 14,Bukidnon,Manolo Fortich,municipality,"113,200","100,210",2.60%,413.60,274,22
 15,Bukidnon,Maramag,municipality,"108,293","102,089",1.25%,447.26,242,20
@@ -1163,11 +1163,11 @@
 18,Bukidnon,San Fernando,municipality,"63,045","56,138",2.47%,705.06,89,24
 19,Bukidnon,Sumilao,municipality,"29,531","27,660",1.39%,196.95,150,10
 20,Bukidnon,Talakag,municipality,"77,027","71,644",1.54%,786.40,98,29
-21,Bukidnon,Valencia,city (,"216,546","192,993",2.45%,587.29,369,31
+21,Bukidnon,Valencia,city (CC),"216,546","192,993",2.45%,587.29,369,31
 0,Camiguin,Catarman,municipality,"17,569","16,798",0.95%,53.75,327,14
 1,Camiguin,Guinsiliban,municipality,"6,685","6,281",1.32%,18.52,361,7
 2,Camiguin,Mahinog,municipality,"14,634","14,038",0.88%,36.04,406,13
-3,Camiguin,Mambajao,"municipality, ","41,094","38,735",1.25%,89.00,462,15
+3,Camiguin,Mambajao,"municipality, capital","41,094","38,735",1.25%,89.00,462,15
 4,Camiguin,Sagay,municipality,"12,826","12,626",0.33%,44.13,291,9
 0,Lanao del Norte,Bacolod,municipality,"24,367","23,034",1.19%,104.10,234,16
 1,Lanao del Norte,Baloi,municipality,"68,465","58,383",3.41%,90.98,753,21
@@ -1190,7 +1190,7 @@
 18,Lanao del Norte,Sultan Naga Dimaporo,municipality,"60,904","56,764",1.49%,230.99,264,37
 19,Lanao del Norte,Tagoloan,municipality,"15,091","13,253",2.77%,69.70,217,7
 20,Lanao del Norte,Tangcal,municipality,"16,075","15,181",1.21%,178.62,90,18
-21,Lanao del Norte,Tubod,"municipality, ","50,073","47,165",1.27%,246.80,203,24
+21,Lanao del Norte,Tubod,"municipality, capital","50,073","47,165",1.27%,246.80,203,24
 0,Misamis Occidental,Aloran,municipality,"27,934","27,625",0.23%,118.06,237,38
 1,Misamis Occidental,Baliangao,municipality,"18,433","17,092",1.60%,81.72,226,15
 2,Misamis Occidental,Bonifacio,municipality,"34,558","32,345",1.40%,155.02,223,28
@@ -1200,21 +1200,21 @@
 6,Misamis Occidental,Don Victoriano Chiongbian,municipality,"9,664","10,183",-1.10%,284.60,34,11
 7,Misamis Occidental,Jimenez,municipality,"28,909","27,654",0.94%,81.43,355,24
 8,Misamis Occidental,Lopez Jaena,municipality,"25,507","25,055",0.38%,94.70,269,28
-9,Misamis Occidental,Oroquieta,city (,"72,301","70,757",0.46%,237.88,304,47
-10,Misamis Occidental,Ozamiz,city (,"140,334","141,828",-0.22%,169.95,826,51
+9,Misamis Occidental,Oroquieta,"city (CC), capital","72,301","70,757",0.46%,237.88,304,47
+10,Misamis Occidental,Ozamiz,city (CC),"140,334","141,828",-0.22%,169.95,826,51
 11,Misamis Occidental,Panaon,municipality,"10,797","10,209",1.19%,46.80,231,16
 12,Misamis Occidental,Plaridel,municipality,"39,840","38,900",0.50%,80.00,498,33
 13,Misamis Occidental,Sapang Dalaga,municipality,"20,490","19,983",0.53%,93.93,218,28
 14,Misamis Occidental,Sinacaban,municipality,"19,671","18,391",1.43%,99.09,199,17
-15,Misamis Occidental,Tangub,city (,"68,389","63,011",1.74%,162.78,420,55
+15,Misamis Occidental,Tangub,city (CC),"68,389","63,011",1.74%,162.78,420,55
 16,Misamis Occidental,Tudela,municipality,"28,599","28,932",-0.24%,87.34,327,33
 0,Misamis Oriental,Alubijid,municipality,"32,163","29,724",1.67%,85.56,376,16
 1,Misamis Oriental,Balingasag,municipality,"74,385","67,059",2.21%,147.11,506,30
 2,Misamis Oriental,Balingoan,municipality,"11,020","11,051",-0.06%,57.80,191,9
 3,Misamis Oriental,Binuangan,municipality,"7,441","7,515",-0.21%,30.43,245,8
 4,Misamis Oriental,Claveria,municipality,"52,478","48,906",1.50%,579.63,91,24
-5,Misamis Oriental,El Salvador,city (,"58,771","50,204",3.37%,106.15,554,15
-6,Misamis Oriental,Gingoog,city (,"136,698","124,648",1.96%,568.44,240,79
+5,Misamis Oriental,El Salvador,city (CC),"58,771","50,204",3.37%,106.15,554,15
+6,Misamis Oriental,Gingoog,city (CC),"136,698","124,648",1.96%,568.44,240,79
 7,Misamis Oriental,Gitagum,municipality,"17,920","16,373",1.92%,43.40,413,11
 8,Misamis Oriental,Initao,municipality,"33,902","32,370",0.98%,111.27,305,16
 9,Misamis Oriental,Jasaan,municipality,"57,055","54,478",0.98%,77.02,741,15
@@ -1241,7 +1241,7 @@
 5,Davao de Oro,Mawab,municipality,"39,631","37,065",1.42%,136.10,291,11
 6,Davao de Oro,Monkayo,municipality,"93,937","94,908",-0.22%,609.61,154,21
 7,Davao de Oro,Montevista,municipality,"46,558","43,706",1.34%,265.60,175,20
-8,Davao de Oro,Nabunturan,"municipality, ","84,340","82,234",0.53%,270.00,312,28
+8,Davao de Oro,Nabunturan,"municipality, capital","84,340","82,234",0.53%,270.00,312,28
 9,Davao de Oro,New Bataan,municipality,"51,466","47,726",1.60%,554.17,93,16
 10,Davao de Oro,Pantukan,municipality,"90,786","85,899",1.17%,533.11,170,13
 0,Davao del Norte,Asuncion,municipality,"61,893","59,322",0.90%,297.39,208,20
@@ -1249,14 +1249,14 @@
 2,Davao del Norte,Carmen,municipality,"82,018","74,679",1.99%,166.00,494,20
 3,Davao del Norte,Kapalong,municipality,"81,068","76,334",1.27%,830.01,98,14
 4,Davao del Norte,New Corella,municipality,"57,913","54,844",1.15%,250.00,232,20
-5,Davao del Norte,Panabo,city (,"209,230","184,599",2.67%,251.23,833,40
-6,Davao del Norte,Samal,city (,"116,771","104,123",2.44%,301.30,388,46
+5,Davao del Norte,Panabo,city (CC),"209,230","184,599",2.67%,251.23,833,40
+6,Davao del Norte,Samal,city (CC),"116,771","104,123",2.44%,301.30,388,46
 7,Davao del Norte,San Isidro,municipality,"27,233","26,651",0.46%,152.49,179,13
 8,Davao del Norte,Santo Tomas,municipality,"128,667","118,750",1.70%,221.80,580,19
-9,Davao del Norte,Tagum,city (,"296,202","259,444",2.83%,195.80,"1,513",23
+9,Davao del Norte,Tagum,"city (CC), capital","296,202","259,444",2.83%,195.80,"1,513",23
 10,Davao del Norte,Talaingod,municipality,"28,333","27,482",0.64%,656.83,43,3
 0,Davao del Sur,Bansalan,municipality,"62,737","60,440",0.79%,157.75,398,25
-1,Davao del Sur,Digos,city (,"188,376","169,393",2.26%,287.10,656,26
+1,Davao del Sur,Digos,"city (CC), capital","188,376","169,393",2.26%,287.10,656,26
 2,Davao del Sur,Hagonoy,municipality,"56,919","53,309",1.39%,114.28,498,21
 3,Davao del Sur,Kiblawan,municipality,"49,381","48,897",0.21%,390.07,127,30
 4,Davao del Sur,Magsaysay,municipality,"56,263","53,876",0.92%,268.09,210,22
@@ -1267,7 +1267,7 @@
 9,Davao del Sur,Sulop,municipality,"35,151","33,613",0.95%,155.26,226,25
 0,Davao Occidental,Don Marcelino,municipality,"45,540","44,554",0.46%,407.30,112,15
 1,Davao Occidental,Jose Abad Santos,municipality,"73,381","76,332",-0.83%,600.06,122,26
-2,Davao Occidental,Malita,"municipality, ","118,197","117,746",0.08%,883.37,134,30
+2,Davao Occidental,Malita,"municipality, capital","118,197","117,746",0.08%,883.37,134,30
 3,Davao Occidental,Santa Maria,municipality,"57,526","53,671",1.47%,175.00,329,22
 4,Davao Occidental,Sarangani,municipality,"22,515","24,039",-1.37%,97.72,230,12
 0,Davao Oriental,Baganga,municipality,"58,714","56,241",0.91%,945.50,62,18
@@ -1278,7 +1278,7 @@
 5,Davao Oriental,Governor Generoso,municipality,"59,891","55,109",1.77%,365.75,164,20
 6,Davao Oriental,Lupon,municipality,"66,979","65,785",0.38%,886.39,76,21
 7,Davao Oriental,Manay,municipality,"39,572","42,690",-1.58%,418.36,95,17
-8,Davao Oriental,Mati,city (,"147,547","141,141",0.94%,588.63,251,26
+8,Davao Oriental,Mati,"city (CC), capital","147,547","141,141",0.94%,588.63,251,26
 9,Davao Oriental,San Isidro,municipality,"33,664","36,032",-1.42%,220.44,153,16
 10,Davao Oriental,Tarragona,municipality,"26,996","26,225",0.61%,300.76,90,10
 0,Cotabato,Alamada,municipality,"68,659","64,596",1.29%,787.50,87,17
@@ -1288,7 +1288,7 @@
 4,Cotabato,Banisilan,municipality,"46,995","43,677",1.55%,577.22,81,20
 5,Cotabato,Carmen,municipality,"107,603","95,921",2.45%,"1,110.43",97,28
 6,Cotabato,Kabacan,municipality,"93,822","89,161",1.08%,448.09,209,24
-7,Cotabato,Kidapawan,city (,"160,791","140,195",2.93%,358.47,449,40
+7,Cotabato,Kidapawan,"city (CC), capital","160,791","140,195",2.93%,358.47,449,40
 8,Cotabato,Libungan,municipality,"56,269","48,768",3.06%,191.57,294,20
 9,Cotabato,Magpet,municipality,"53,800","49,201",1.90%,"1,044.69",51,32
 10,Cotabato,Makilala,municipality,"87,927","83,851",1.00%,343.57,256,38
@@ -1299,7 +1299,7 @@
 15,Cotabato,Pikit,municipality,"164,646","154,441",1.36%,604.61,272,42
 16,Cotabato,President Roxas,municipality,"52,512","47,575",2.10%,618.25,85,25
 17,Cotabato,Tulunan,municipality,"60,978","56,513",1.61%,343.08,178,29
-0,Sarangani,Alabel,"municipality, ","88,294","80,359",2.00%,510.98,173,13
+0,Sarangani,Alabel,"municipality, capital","88,294","80,359",2.00%,510.98,173,13
 1,Sarangani,Glan,municipality,"109,547","118,263",-1.60%,533.51,205,31
 2,Sarangani,Kiamba,municipality,"65,774","61,058",1.58%,446.38,147,19
 3,Sarangani,Maasim,municipality,"64,940","59,468",1.87%,500.43,130,16
@@ -1307,7 +1307,7 @@
 5,Sarangani,Malapatan,municipality,"80,741","76,914",1.03%,609.28,133,12
 6,Sarangani,Malungon,municipality,"105,465","103,604",0.38%,750.92,140,31
 0,South Cotabato,Banga,municipality,"89,164","83,989",1.27%,240.35,371,22
-1,South Cotabato,Koronadal,city (,"195,398","174,942",2.36%,277.00,705,27
+1,South Cotabato,Koronadal,"city (CC), capital, regional center","195,398","174,942",2.36%,277.00,705,27
 2,South Cotabato,Lake Sebu,municipality,"81,221","87,442",-1.54%,702.00,116,19
 3,South Cotabato,Norala,municipality,"46,682","46,642",0.02%,188.11,248,14
 4,South Cotabato,Polomolok,municipality,"172,605","152,589",2.63%,339.97,508,23
@@ -1320,7 +1320,7 @@
 0,Sultan Kudarat,Bagumbayan,municipality,"68,947","67,061",0.59%,672.06,103,19
 1,Sultan Kudarat,Columbio,municipality,"33,527","33,258",0.17%,926.15,36,16
 2,Sultan Kudarat,Esperanza,municipality,"74,696","66,095",2.61%,324.29,230,19
-3,Sultan Kudarat,Isulan,"municipality, ","97,490","90,682",1.54%,545.87,179,17
+3,Sultan Kudarat,Isulan,"municipality, capital","97,490","90,682",1.54%,545.87,179,17
 4,Sultan Kudarat,Kalamansig,municipality,"50,900","49,059",0.78%,699.20,73,15
 5,Sultan Kudarat,Lambayong,municipality,"79,739","77,013",0.74%,216.35,369,26
 6,Sultan Kudarat,Lebak,municipality,"91,344","88,868",0.58%,470.86,194,27
@@ -1328,9 +1328,9 @@
 8,Sultan Kudarat,Palimbang,municipality,"92,828","90,424",0.55%,484.85,191,40
 9,Sultan Kudarat,President Quirino,municipality,"42,244","41,408",0.42%,208.40,203,19
 10,Sultan Kudarat,Senator Ninoy Aquino,municipality,"47,374","46,882",0.22%,391.43,121,20
-11,Sultan Kudarat,Tacurong,city (,"109,319","98,316",2.26%,153.40,713,20
+11,Sultan Kudarat,Tacurong,city (CC),"109,319","98,316",2.26%,153.40,713,20
 0,Agusan del Norte,Buenavista,municipality,"68,892","61,614",2.38%,475.61,145,25
-1,Agusan del Norte,Cabadbaran,city (,"80,354","73,639",1.85%,311.02,258,31
+1,Agusan del Norte,Cabadbaran,"city (CC), capital","80,354","73,639",1.85%,311.02,258,31
 2,Agusan del Norte,Carmen,municipality,"23,172","20,839",2.26%,214.44,108,8
 3,Agusan del Norte,Jabonga,municipality,"24,855","23,184",1.48%,293.00,85,15
 4,Agusan del Norte,Kitcharao,municipality,"21,278","18,659",2.80%,128.35,166,11
@@ -1340,12 +1340,12 @@
 8,Agusan del Norte,Remedios T. Romualdez,municipality,"17,155","16,058",1.40%,79.15,217,8
 9,Agusan del Norte,Santiago,municipality,"28,657","24,200",3.62%,275.61,104,9
 10,Agusan del Norte,Tubay,municipality,"25,785","24,932",0.71%,63.05,409,13
-0,Agusan del Sur,Bayugan,city (,"109,499","103,202",1.25%,688.77,159,43
+0,Agusan del Sur,Bayugan,city (CC),"109,499","103,202",1.25%,688.77,159,43
 1,Agusan del Sur,Bunawan,municipality,"47,512","45,151",1.08%,512.16,93,10
 2,Agusan del Sur,Esperanza,municipality,"59,353","54,801",1.69%,"1,355.48",44,47
 3,Agusan del Sur,La Paz,municipality,"30,969","28,217",1.98%,"1,481.12",21,15
 4,Agusan del Sur,Loreto,municipality,"43,880","42,501",0.67%,"1,462.74",30,17
-5,Agusan del Sur,Prosperidad,"municipality, ","88,321","82,631",1.41%,505.15,175,32
+5,Agusan del Sur,Prosperidad,"municipality, capital","88,321","82,631",1.41%,505.15,175,32
 6,Agusan del Sur,Rosario,municipality,"49,610","46,683",1.29%,385.05,129,11
 7,Agusan del Sur,San Francisco,municipality,"80,760","74,542",1.70%,392.53,206,27
 8,Agusan del Sur,San Luis,municipality,"35,196","32,109",1.95%,950.50,37,25
@@ -1359,7 +1359,7 @@
 2,Dinagat Islands,Dinagat,municipality,"10,621","10,632",-0.02%,21.36,497,12
 3,Dinagat Islands,Libjo,municipality,"18,051","17,760",0.34%,180.57,100,16
 4,Dinagat Islands,Loreto,municipality,"9,690","9,309",0.85%,155.82,62,10
-5,Dinagat Islands,San Jose,"municipality, ","26,375","27,487",-0.87%,34.31,769,12
+5,Dinagat Islands,San Jose,"municipality, capital","26,375","27,487",-0.87%,34.31,769,12
 6,Dinagat Islands,Tubajon,municipality,"8,119","8,276",-0.40%,126.38,64,9
 0,Surigao del Norte,Alegria,municipality,"16,184","16,011",0.23%,65.28,248,12
 1,Surigao del Norte,Bacuag,municipality,"14,881","14,486",0.57%,95.85,155,9
@@ -1379,12 +1379,12 @@
 15,Surigao del Norte,Santa Monica,municipality,"9,423","8,808",1.43%,39.19,240,11
 16,Surigao del Norte,Sison,municipality,"14,290","13,155",1.76%,79.73,179,12
 17,Surigao del Norte,Socorro,municipality,"25,942","22,314",3.22%,131.85,197,14
-18,Surigao del Norte,Surigao City,city (,"171,107","154,137",2.22%,173.91,984,54
+18,Surigao del Norte,Surigao City,"city (CC), capital","171,107","154,137",2.22%,173.91,984,54
 19,Surigao del Norte,Tagana-an,municipality,"17,323","16,428",1.12%,77.29,224,14
 20,Surigao del Norte,Tubod,municipality,"15,043","14,206",1.21%,45.34,332,9
 0,Surigao del Sur,Barobo,municipality,"53,146","49,730",1.41%,242.50,219,21
 1,Surigao del Sur,Bayabas,municipality,"8,979","8,164",2.02%,117.84,76,7
-2,Surigao del Sur,Bislig,city (,"99,290","94,535",1.04%,331.80,299,24
+2,Surigao del Sur,Bislig,city (CC),"99,290","94,535",1.04%,331.80,299,24
 3,Surigao del Sur,Cagwait,municipality,"21,747","20,384",1.37%,214.10,102,11
 4,Surigao del Sur,Cantilan,municipality,"34,060","31,492",1.66%,240.10,142,17
 5,Surigao del Sur,Carmen,municipality,"11,720","10,347",2.66%,160.01,73,8
@@ -1400,13 +1400,13 @@
 15,Surigao del Sur,San Miguel,municipality,"41,809","39,340",1.29%,558.00,75,18
 16,Surigao del Sur,Tagbina,municipality,"41,051","38,833",1.18%,343.49,120,25
 17,Surigao del Sur,Tago,municipality,"39,831","35,329",2.56%,253.28,157,24
-18,Surigao del Sur,Tandag,city (,"62,669","56,364",2.26%,291.73,215,21
+18,Surigao del Sur,Tandag,"city (CC), capital","62,669","56,364",2.26%,291.73,215,21
 0,Basilan,Akbar,municipality,"23,098","17,531",5.98%,182.01,127,9
 1,Basilan,Al-Barka,municipality,"23,736","20,905",2.71%,188.70,126,16
 2,Basilan,Hadji Mohammad Ajul,municipality,"24,625","19,307",5.26%,202.50,122,11
 3,Basilan,Hadji Muhtamad,municipality,"26,867","25,085",1.46%,173.27,155,10
-4,Basilan,Isabela City,city (,"130,379","112,788",3.10%,223.73,583,45
-5,Basilan,Lamitan,city (,"100,150","74,782",6.34%,354.45,283,45
+4,Basilan,Isabela City,"city (CC), capital","130,379","112,788",3.10%,223.73,583,45
+5,Basilan,Lamitan,city (CC),"100,150","74,782",6.34%,354.45,283,45
 6,Basilan,Lantawan,municipality,"31,040","24,594",5.02%,405.04,77,25
 7,Basilan,Maluso,municipality,"45,730","40,646",2.51%,304.14,150,20
 8,Basilan,Sumisip,municipality,"47,345","41,730",2.69%,567.60,83,29
@@ -1437,7 +1437,7 @@
 20,Lanao del Sur,Maguing,municipality,"30,436","24,531",4.65%,615.04,49,34
 21,Lanao del Sur,Malabang,municipality,"49,088","43,957",2.35%,198.10,248,37
 22,Lanao del Sur,Marantao,municipality,"37,763","32,974",2.90%,660.00,57,34
-23,Lanao del Sur,Marawi,city (,"207,010","201,785",0.54%,87.55,"2,364",96
+23,Lanao del Sur,Marawi,"city (CC), capital","207,010","201,785",0.54%,87.55,"2,364",96
 24,Lanao del Sur,Marogong,municipality,"30,118","21,319",7.55%,365.00,83,24
 25,Lanao del Sur,Masiu,municipality,"33,580","29,176",3.00%,170.00,198,35
 26,Lanao del Sur,Mulondo,municipality,"19,932","16,067",4.64%,458.67,43,26
@@ -1481,7 +1481,7 @@
 24,Maguindanao,Pandag,municipality,"26,356","25,057",1.07%,85.31,309,8
 25,Maguindanao,Parang,municipality,"102,914","89,194",3.06%,850.78,121,25
 26,Maguindanao,Rajah Buayan,municipality,"27,832","23,652",3.49%,71.98,387,11
-27,Maguindanao,Shariff Aguak,"municipality, ","33,982","31,692",1.48%,166.00,205,13
+27,Maguindanao,Shariff Aguak,"municipality, capital","33,982","31,692",1.48%,166.00,205,13
 28,Maguindanao,Shariff Saydona Mustapha,municipality,"25,080","19,855",5.04%,101.26,248,16
 29,Maguindanao,South Upi,municipality,"43,197","40,178",1.54%,318.95,135,11
 30,Maguindanao,Sultan Kudarat,municipality,"105,121","95,201",2.11%,712.91,147,39
@@ -1493,7 +1493,7 @@
 0,Sulu,Banguingui,municipality,"35,616","24,161",8.51%,352.59,101,14
 1,Sulu,Hadji Panglima Tahil,municipality,"7,906","6,375",4.64%,67.90,116,5
 2,Sulu,Indanan,municipality,"93,168","80,883",3.02%,101.90,914,34
-3,Sulu,Jolo,"municipality, ","137,266","125,564",1.89%,126.40,"1,086",8
+3,Sulu,Jolo,"municipality, capital","137,266","125,564",1.89%,126.40,"1,086",8
 4,Sulu,Kalingalan Caluang,municipality,"39,549","31,567",4.86%,216.37,183,9
 5,Sulu,Lugus,municipality,"29,043","21,897",6.13%,133.04,218,17
 6,Sulu,Luuk,municipality,"37,873","32,162",3.50%,313.04,121,12
@@ -1509,7 +1509,7 @@
 16,Sulu,Siasi,municipality,"81,689","67,705",4.03%,307.59,266,50
 17,Sulu,Talipao,municipality,"100,088","80,255",4.76%,497.32,201,52
 18,Sulu,Tapul,municipality,"20,799","18,197",2.85%,89.17,233,15
-0,Tawi-Tawi,Bongao,"municipality, ","116,118","100,527",3.08%,365.95,317,35
+0,Tawi-Tawi,Bongao,"municipality, capital","116,118","100,527",3.08%,365.95,317,35
 1,Tawi-Tawi,Languyan,municipality,"37,096","33,494",2.17%,581.20,64,20
 2,Tawi-Tawi,Mapun,municipality,"30,038","26,597",2.59%,181.29,166,15
 3,Tawi-Tawi,Panglima Sugala,municipality,"48,055","44,184",1.78%,416.66,115,17
