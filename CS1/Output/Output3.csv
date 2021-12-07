@@ -1,8 +1,8 @@
 ,Province,Municipality Name,Type,Population (2020),Population (2015),Annual Population Growth Rate (2015‑2020),"Area (2013), in km2","Density (2020), per km2",Brgy count
-0,III,Angeles,city (HUC),"462,928","411,634",2.50%,63.37,"7,305",–
-1,III,Olongapo,city (HUC),"260,317","233,040",2.36%,185.00,"1,407",–
-0,IV‑A,Lucena,"city (HUC), capital","278,924","266,248",0.98%,80.21,"3,477",–
-0,MIMAROPA,Puerto Princesa,"city (HUC), capital","307,079","255,116",3.98%,"2,381.02",129,–
+0,III,Angeles,city (HUC),"462,928","411,634",2.50%,63.37,"7,305",33
+1,III,Olongapo,city (HUC),"260,317","233,040",2.36%,185.00,"1,407",17
+0,IV‑A,Lucena,"city (HUC), capital","278,924","266,248",0.98%,80.21,"3,477",33
+0,MIMAROPA,Puerto Princesa,"city (HUC), capital","307,079","255,116",3.98%,"2,381.02",129,66
 0,NCR,Caloocan,city (HUC),"1,661,584","1,583,978",1.01%,55.80,"29,777",188
 1,NCR,Las Piñas,city (HUC),"606,293","588,894",0.61%,32.69,"18,547",20
 2,NCR,Makati,city (HUC),"629,616","582,602",1.65%,21.57,"29,189",33
@@ -20,21 +20,21 @@
 14,NCR,San Juan,city (HUC),"126,347","122,180",0.71%,5.95,"21,235",21
 15,NCR,Taguig,city (HUC),"886,722","804,915",2.06%,45.21,"19,613",28
 16,NCR,Valenzuela,city (HUC),"714,978","620,422",3.03%,47.02,"15,206",33
-0,CAR,Baguio,"city (HUC), regional center","366,358","345,366",1.25%,57.51,"6,370",–
-0,VI,Bacolod,"city (HUC), capital","600,783","561,875",1.42%,160.71,"3,738",–
-1,VI,Iloilo City,"city (HUC), capital, regional center","457,626","447,992",0.45%,78.34,"5,842",–
-0,VII,Cebu City,"city (HUC), capital, regional center","964,169","922,611",0.93%,315.00,"3,061",–
-1,VII,Lapu-Lapu,city (HUC),"497,604","408,112",4.26%,58.10,"8,565",–
-2,VII,Mandaue,city (HUC),"364,116","362,654",0.08%,25.18,"14,461",–
-0,VIII,Tacloban,"city (HUC), capital, regional center","251,881","242,089",0.84%,201.72,"1,249",–
-0,IX,Isabela City,"city (CC), capital","130,379","112,788",3.10%,223.73,583,–
-1,IX,Zamboanga City,city (HUC),"977,234","861,799",2.68%,"1,414.70",691,–
-0,X,Cagayan de Oro,"city (HUC), capital, regional center","728,402","675,950",1.59%,412.80,"1,765",–
-1,X,Iligan,city (HUC),"363,115","342,618",1.23%,813.37,446,–
-0,XI,Davao City,"city (HUC), regional center","1,776,949","1,632,991",1.79%,"2,443.61",727,–
-0,XII,Cotabato City,"city (ICC), regional center","325,079","299,438",1.74%,176.00,"1,847",–
-1,XII,General Santos,city (HUC),"697,315","594,446",3.42%,492.86,"1,415",–
-0,XIII,Butuan,"city (HUC), regional center","372,910","337,063",2.15%,816.62,457,–
+0,CAR,Baguio,"city (HUC), regional center","366,358","345,366",1.25%,57.51,"6,370",129
+0,VI,Bacolod,"city (HUC), capital","600,783","561,875",1.42%,160.71,"3,738",61
+1,VI,Iloilo City,"city (HUC), capital, regional center","457,626","447,992",0.45%,78.34,"5,842",180
+0,VII,Cebu City,"city (HUC), capital, regional center","964,169","922,611",0.93%,315.00,"3,061",80
+1,VII,Lapu-Lapu,city (HUC),"497,604","408,112",4.26%,58.10,"8,565",30
+2,VII,Mandaue,city (HUC),"364,116","362,654",0.08%,25.18,"14,461",27
+0,VIII,Tacloban,"city (HUC), capital, regional center","251,881","242,089",0.84%,201.72,"1,249",138
+0,IX,Isabela City,"city (CC), capital","130,379","112,788",3.10%,223.73,583,45
+1,IX,Zamboanga City,city (HUC),"977,234","861,799",2.68%,"1,414.70",691,98
+0,X,Cagayan de Oro,"city (HUC), capital, regional center","728,402","675,950",1.59%,412.80,"1,765",80
+1,X,Iligan,city (HUC),"363,115","342,618",1.23%,813.37,446,44
+0,XI,Davao City,"city (HUC), regional center","1,776,949","1,632,991",1.79%,"2,443.61",727,182
+0,XII,Cotabato City,"city (ICC), regional center","325,079","299,438",1.74%,176.00,"1,847",37
+1,XII,General Santos,city (HUC),"697,315","594,446",3.42%,492.86,"1,415",26
+0,XIII,Butuan,"city (HUC), regional center","372,910","337,063",2.15%,816.62,457,86
 0,Ilocos Norte,Adams,municipality,"2,189","1,792",4.30%,159.31,14,1
 1,Ilocos Norte,Bacarra,municipality,"33,496","32,215",0.82%,65.32,513,43
 2,Ilocos Norte,Badoc,municipality,"32,530","31,616",0.60%,76.68,424,31
